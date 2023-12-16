@@ -1,4 +1,6 @@
-![image](https://github.com/korekthor/documents/assets/34690804/26b738e8-0bd9-4035-bb52-2d6f718773a1)## Úvod
+## Úvod
+
+![image](https://github.com/korekthor/documents/assets/34690804/26b738e8-0bd9-4035-bb52-2d6f718773a1)
 
 Víte, jak se často plácáme do čela nad gramatickými chybami v češtině? No, pojďme se na ně podívat s úsměvem!
 
