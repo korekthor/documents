@@ -1,1 +1,1 @@
-# ZDE BUDE NĚKDY V BUDOUCNU DOKUMENTACE
+# Veřejně dostupné dokumenty projektu korekthor
