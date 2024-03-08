@@ -1,1 +1,1 @@
-# Veřejně dostupné dokumenty projektu korekthor
+# API Reference systému korekthor
