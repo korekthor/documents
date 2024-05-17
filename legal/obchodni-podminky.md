@@ -36,7 +36,7 @@
    3. Přístup k Uživatelskému účtu je zabezpečen přihlášením přes účet Discord nebo Google. Je Vaší povinností zachovávat mlčenlivost a nikomu přihlašovací údaje od těchto účtů neposkytovat. V případě, že dojde k jejich zneužití, neneseme za to žádnou odpovědnost.
    4. Uživatelský účet je osobní, a nejste tedy oprávněni umožnit jeho využívání třetím osobám. Rovněž není možné třetím osobám umožnit využívání Vámi zakoupených Služeb.
    5. Váš Uživatelský účet můžeme zrušit, a to zejména v případě, když jej více než jeden rok nevyužíváte, či v případě, kdy porušíte své povinnosti dle Smlouvy.
-   6. Uživatelský účet nemusí být dostupný nepřetržitě, a to zejména s ohledem na nutnou údržbu hardwarového a softwarového vybavení.
+   6. Uživatelský účet nemusí být dostupné nepřetržitě, a to zejména s ohledem na nutnou údržbu hardwarového a softwarového vybavení.
 6. Cenové a platební podmínky, výhrada vlastnického práva
    1. Cena je vždy uvedena v rámci Stránek, v návrhu Objednávky a samozřejmě ve Smlouvě. V případě rozporu mezi Cenou uvedenou u Služeb v rámci Stránek a Cenou uvedenou v návrhu Objednávky se uplatní Cena uvedená v návrhu Objednávky, která bude vždy totožná s cenou ve Smlouvě.
    2. Celková cena je uvedena včetně DPH včetně veškerých poplatků stanovených zákonem.
@@ -45,6 +45,7 @@
    4. Faktura bude vystavena v elektronické podobě po uhrazení Celkové ceny a bude zaslána na Vaši e-mailovou adresu. Faktura bude též dostupná v Uživatelském účtu.
    5. Kupující má možnost zvolit při dokončování objednávky automatické platby. V tom případě bude Služba automaticky obnovena ve zvoleném intervalu automatickým stržením peněz z platební karty. Tato obnovení budou probíhat až do ukončení předplatného (v zákaznické administraci či e-mailem).
    6. O zpřístupnění služeb budete informováni E-mailem. Tím vám nevzniká vlastnické právo na software, máte pouze právo službu využívat podle licence dostupné [zde](https://korekthor.cz/podminky-uziti).
+   7. Při technických problémech našeho systému mohou být Služby nedostupné po čas přiměřený odstranění technické závady. Pokud výpadek tento rámec přesáhne, má Kupující nárok na cenovou kompenzaci z částky předplatného odpovídající poměru předplaceného období, ve kterém nebyly Služby kvůli technickému výpadku dostupné.
 7. Odstoupení od smlouvy
    1. K odstoupení od Smlouvy, tedy k ukončení smluvního vztahu mezi Námi a Vámi od jeho počátku, může dojít z důvodů a způsoby uvedenými v tomto článku, případně v dalších ustanoveních Podmínek, ve kterých je možnost odstoupení výslovně uvedena.
    2. V případě, že jste spotřebitel, tedy osoba kupující Služby mimo rámec své podnikatelské činnosti, máte v souladu s ustanovením §1829 občanského zákoníku právo odstoupit od Smlouvy bez udání důvodu ve lhůtě 14 dnů ode dne uzavření Smlouvy. V případě, že bude zpřístupnění nástroje oproti uzavření smlouvy opožděno, začíná tato lhůta zpřístupněním služby.
