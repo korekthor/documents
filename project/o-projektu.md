@@ -3,7 +3,7 @@ Snad jako každého nás unesla schopnost zahraničních nástrojů komplexně o
 ### Více než dva roky vývoje
 Po více než dvou letech vývoje tak představujeme výsledek našeho úsilí. Ještě nejsme v cíli, i s omezenými zdroji jsme ale došli daleko dál, než kterýkoliv jiný dostupný nástroj. A naše cesta tady rozhodně nekončí. Nejlepší způsob, jak nám pomoct vytvořit ještě lepší korekthor, je [pořídit si předplatné](https://korekthor.cz/premium). Vyjde vás to na méně než jedno kafe měsíčně za nejpokročilejší automatickou opravu češtiny!
 ### Pro koho korekthor je?
-Korekthor nenahradí znalost češtiny (alespoň zatím). Poslouží ale jako druhý pár očí, který vás na chyby upozorní. Přitom vy byste je možná přehlédly. Vyhodnocení, zda na doporučení nástroje dáte, je už na vás.
+Korekthor nenahradí znalost češtiny (alespoň zatím). Poslouží ale jako druhý pár očí, který vás na chyby upozorní. Přitom vy byste je možná přehlédli. Vyhodnocení, zda na doporučení nástroje dáte, je už na vás.
 ### Neuronové sítě
 Po vzoru úspěšných zahraničních nástrojů jsme místo algoritmického přístupu sáhli po neuronových sítích. Ty si modelujeme i trénujeme sami. Korekthor tak narozdíl od kteréhokoliv jiného dostupného systému dokáže opravit i chyby závislé na kontextu.
 ## Co všechno korekthor opraví?
