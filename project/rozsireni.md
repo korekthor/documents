@@ -1,4 +1,4 @@
-![Screenshot from 2024-11-25 08-04-43](https://github.com/user-attachments/assets/89d6bfc9-2b83-4407-9803-d69ff9af28b8)# Rozšíření korekthor
+# Rozšíření korekthor
 Rozšíření vám umožní korekthor využívát napříč celým internetem. Nemusíte texty pracně kopírovat do našeho editoru, korekthor chyby najde v téměř jakémkoliv textovém poli na webové stránce. Pro použití je nutné mít předplatné korekthor.
 
 ### korekthor funguje v Chromu
