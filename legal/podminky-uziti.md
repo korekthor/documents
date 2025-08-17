@@ -19,7 +19,7 @@
       3. Firemní
    2. Služba je vázána na osobu. Je zakázáno sdílet účet mezi více osobami.
    3. Uživatel nezískává jakékoliv vlastnické právo související se Softwarem.
-   4. Licence může být Poskytovatelem za porušení těchto podmínek bez náhrady, nebo bez udání důvodu s náhradou nevyčerpaného zakoupeného předplatného.
+   4. Licence může být Poskytovatelem za porušení těchto podmínek odebrána bez náhrady nebo může být odebrána bez udání důvodu s náhradou nevyčerpaného zakoupeného předplatného.
    5. Další licenční podmínky pro Základní druh služby:
       1. Objem opraveného textu je v tomto druhu Služby omezen. Je zakázáno toto omezení jakkoliv obcházet.
       2. Tento druh Služby je výhradně pro soukromé užití. Je zakázáno jej využívat pro komerční účely, a to i jako zaměstnanec.
