@@ -68,6 +68,7 @@
    2. Neodpovídáme za škody či ztráty dat způsobené při využívání webové aplikace, pokud byly způsobeny vámi, třetími osobami nebo překážkami vzniklými nezávisle na naší vůli. Dále neodpovídáme za škody způsobené užíváním webové aplikace v rozporu s Podmínkami, Zásadami, Obchodními podmínkami, našimi pokyny, neodborným zásahem do aplikace, dat v aplikaci nebo do jiného obsahu aplikace, nedostatečným zabezpečením lokální sítě návštěvníka nebo uživatele nebo jeho hardwaru, popř. útokem hackerů nebo jiným obdobným vnějším zásahem nebo vzniklé v důsledku poškození způsobeného nesprávnou funkcí programů jiných výrobců instalovaných ve vašem zařízení.
    3. Neodpovídáme vám ani za škodu způsobenou vložením nepravdivých, klamavých nebo zavádějících údajů do webové aplikace jiným uživatelem.
    4. Neodpovídáme za škody vzniklé nesprávnou opravou textu našimi službami. Jde o automatické systémy a jejich plnou funkčnost nelze garantovat. Při vyhodnocování doporučení našich služeb je tak v prvé řadě nutné řídit se vlastní úvahou.
+   5. V rámci opravy textu může být využíváno služeb třetích stran (Google, Anthropic, Meta nebo OpenAI). Pokud přes naše snahy o anonymizaci dat dojde k jejich zneužití těmito třetími stranami, neneseme za vzniklé škody odpovědnost.
 7. Závěrečná ustanovení
    1. Je-li některá část těchto Podmínek neplatná nebo zdánlivá, nemá to vliv na platnost ostatních ujednání. Smluvní strany výslovně vylučují ustanovení § 557 občanského zákoníku.
    2. Smlouva o poskytování služeb, jakož i samotné poskytování služeb probíhá v českém jazyce.
