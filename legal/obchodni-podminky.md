@@ -5,7 +5,7 @@
    3. Ustanovení těchto Podmínek jsou nedílnou součástí Smlouvy. Smlouva a Podmínky jsou vyhotoveny v českém jazyce. Znění Podmínek můžeme jednostranně měnit či doplňovat. Tímto ustanovením nejsou dotčena práva a povinnosti vzniklá po dobu účinnosti předchozího znění Podmínek.
    4. Jak jistě víte, tak komunikujeme primárně na dálku. Proto i pro naši Smlouvu platí, že jsou použity prostředky komunikace na dálku, které umožňují, abychom se spolu dohodli bez současné fyzické přítomnosti Nás a Vás, a Smlouva je tak uzavřena distančním způsobem v prostředí Stránek, a to prostřednictvím rozhraní webové stránky („Stránky“).
    5. Pokud některá část Podmínek odporuje tomu, co jsme si společně schválili v rámci procesu Vašeho nákupu na Našich Stránkách, bude mít tato konkrétní dohoda před Podmínkami přednost.)
-   6. Na využívání služeb se dále vztahují [Podmínky užití](https://korekthor.cz/podminky-uziti).
+   6. Na využívání služeb se dále vztahují [Podmínky užití](https://korekthor.cz/podminky-uziti). Některé definice a ujednání v těchto Podmínkách jsou součástí Podmínek užití. Seznamte se s nimi tedy, prosím, před uzavřením kupní smlouvy.
 2. Některé definice
    1. Cena je finanční částka, kterou budete hradit za služby;
    2. DPH je daň z přidané hodnoty dle platných právních předpisů;
@@ -60,6 +60,11 @@
    4. V případě vyšší moci nebo událostí, které nelze předvídat (přírodní katastrofa, pandemie, provozní poruchy), neneseme odpovědnost za škodu způsobenou v důsledku nebo souvislosti s případy vyšší moci, a pokud stav vyšší moci trvá po dobu delší než 10 dnů, máme My i Vy právo od Smlouvy odstoupit.
    5. Přílohou Podmínek je vzorový formulář pro odstoupení od Smlouvy.
    6. Smlouva včetně Podmínek je archivována v elektronické podobě u Nás, ale není Vám přístupná. Vždy však tyto Podmínky a potvrzení Objednávky se shrnutím Objednávky obdržíte e-mailem a budete tedy mít vždy přístup ke Smlouvě i bez Naší součinnosti. Doporučujeme vždy potvrzení Objednávky a Podmínky uložit.
+
+9. Přechodná ustanovení
+   1. V době tvorby těchto podmínek nejsme plátci DPH. Ustanovení o DPH nabudou platnosti až poté, co se staneme plátci DPH.
+
+Platnost a účinnost k datu 1. 9. 2025
 
 ## Příloha č. 1 - Formulář pro odstoupení od smlouvy
 
