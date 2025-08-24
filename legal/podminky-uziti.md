@@ -24,7 +24,7 @@
    11. Služby můžete využívat pouze v rozsahu, který vám umožňuje rozhraní Softwaru a tyto Podmínky.
    12. Oprava textu probíhá kombinací našich algoritmických systémů, našich systémů využívajících neuronové sítě a systémů třetích stran (zejména velkých jazykových modelů).
    13. Máte plnou odpovědnost za obsah, který do služeb vkládáte. Zejména za obsah, který necháte nástroj opravit, odpovídáte výlučně vy a je vaší povinností, abyste si zkontrolovali, zda nejednáte v rozporu s obecně závaznými předpisy, dobrými mravy či zda nezasahujete jakkoli jinak do práv třetích osob. V případě, že nám v návaznosti na vámi vložený obsah bude udělena sankce ze strany orgánu veřejné moci či jakákoli jiná povinnost k náhradě škody třetí osoby, jste povinni nám tuto v celé výši uhradit.
-   14. Je zakázáno nechávat Software opravovat text, který obsahuje Vaše osobní údaje.
+   14. Je zakázáno nechávat Software opravovat text, který obsahuje osobní nebo jiné citlivé údaje.
 3. Uživatelský účet
    1. Založení uživatelského účtu je bezplatné. Založit uživatelský účet je možné prostřednictvím účtů Google nebo Discord.
    2. Zrušení uživatelského účtu je možné v rozhraní [webových stránek korekthor.cz](https://korekthor.cz/) nebo e-mailem na adresu info@korekthor.cz
