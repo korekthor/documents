@@ -40,9 +40,17 @@ Po dobu plnění naší služby a poté takovou dobu od posledního poskytnutí 
 
 Vaše data zůstanou u nás.
 
-Na stránkách využíváme nástroje společností Google a Discord.
+Na stránkách využíváme nástroje společností Google a Discord pro zajištění přihlašování.
 
 Osobní údaje zpracováváme pouze na území Evropské unie.
+
+## Využívání LLM při opravě textu
+Pro opravu textu využíváme vlastní algoritmy a neuronové sítě i nástroje třetích stran, konkrétně velké jazykové modely (LLM).
+
+### Ochrana a anonymizace dat
+V souladu s našimi podmínkami použití je zakázáno vkládat do nástroje jakékoli texty obsahující osobní nebo jiné citlivé údaje. Váš text, který posíláte ke korektuře, je pro zajištění maximální bezpečnosti dat anonymizován a zasílán po částech. Modely LLM jej využívají výhradně pro generování opravené verze textu a neukládají jej.
+
+Pro opravu textu mohou být využívány služby společností Google, OpenAI, Anthropic nebo Meta. Tyto služby mají přístup pouze k opravovanému textu, nezasíláme jim jakékoliv Vaše údaje ani anonymizované identifikátory uživatele.
 
 ## Co byste dál měli vědět
 
@@ -108,4 +116,4 @@ Pro naplnění výše zmíněných práv nás kontaktujte na e-mailové adrese i
 
 Pokud si myslíte, že s daty nenakládáme správně, máte právo podat stížnost u [Úřadu pro ochranu osobních údajů](https://www.uoou.cz/), případně se se svými nároky obrátit na soud.
 
-Tyto podmínky jsou účinné od 5. 11. 2023
+Tyto podmínky jsou účinné od 1. 9. 2025
