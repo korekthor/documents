@@ -56,7 +56,7 @@
 8. Závěrečná ustanovení
    1. Pokud Náš a Váš právní vztah obsahuje mezinárodní prvek, bude se vztah vždy řídit právem České republiky. Pokud jste však spotřebitelé, nejsou tímto ujednáním dotčena Vaše práva plynoucí z právních předpisů.
    2. Veškerou písemnou korespondenci si s Vámi budeme doručovat elektronickou poštou. Naše e-mailová adresa je uvedena u Našich identifikačních údajů. My budeme doručovat korespondenci na Vaši e-mailovou adresu uvedenou ve Smlouvě, v Uživatelském účtu nebo přes kterou jste nás kontaktovali.
-   3. Smlouvu je možné měnit pouze na základě naší písemné dohody. My jsme však oprávněni změnit a doplnit tyto Podmínky, tato změna se však nedotkne již uzavřených Smluv, ale pouze Smluv, které budou uzavřeny po účinnosti této změny. O změně Vás však budeme informovat pouze v případě, že máte vytvořený Uživatelský účet (abyste tuto informaci měli v případě, že budete objednávat nové Služby, změna však nezakládá právo výpovědi, jelikož nemáme uzavřenou Smlouvu, kterou by bylo možné vypovědět), nebo Vám na základě Smlouvy máme dodávat Služby pravidelně a opakovaně. Informace o změně Vám zašleme na Vaši e-mailovou adresu nejméně 14 dní před účinností této změny. Pokud od Vás do 14 dnů od zaslání informace o změně neobdržíme výpověď uzavřené Smlouvy na pravidelné a opakované dodávky Služby, stávají se nové podmínky součástí naší Smlouvy a uplatní se na další dodávku Služby následující po účinnosti změny. Výpovědní doba v případě, že výpověď podáte, činí 2 měsíce.
+   3. Smlouvu je možné měnit pouze na základě naší písemné dohody. My jsme však oprávněni změnit a doplnit tyto Podmínky. O změně Vás však budeme informovat pouze v případě, že máte vytvořený Uživatelský účet (abyste tuto informaci měli v případě, že budete objednávat nové Služby, změna však nezakládá právo výpovědi, jelikož nemáme uzavřenou Smlouvu, kterou by bylo možné vypovědět). Informace o změně Vám zašleme na Vaši e-mailovou adresu nejméně 14 dní před účinností této změny. Pokud od Vás do 14 dnů od zaslání informace o změně neobdržíme výpověď uzavřené Smlouvy, stávají se nové podmínky součástí naší Smlouvy. Vypořádání nevyužité doby předplatného se bude řídit podle zákonů.
    4. V případě vyšší moci nebo událostí, které nelze předvídat (přírodní katastrofa, pandemie, provozní poruchy), neneseme odpovědnost za škodu způsobenou v důsledku nebo souvislosti s případy vyšší moci, a pokud stav vyšší moci trvá po dobu delší než 10 dnů, máme My i Vy právo od Smlouvy odstoupit.
    5. Přílohou Podmínek je vzorový formulář pro odstoupení od Smlouvy.
    6. Smlouva včetně Podmínek je archivována v elektronické podobě u Nás, ale není Vám přístupná. Vždy však tyto Podmínky a potvrzení Objednávky se shrnutím Objednávky obdržíte e-mailem a budete tedy mít vždy přístup ke Smlouvě i bez Naší součinnosti. Doporučujeme vždy potvrzení Objednávky a Podmínky uložit.
@@ -64,7 +64,7 @@
 9. Přechodná ustanovení
    1. V době tvorby těchto podmínek nejsme plátci DPH. Ustanovení o DPH nabudou platnosti až poté, co se staneme plátci DPH.
 
-Platnost a účinnost k datu 1. 9. 2025
+Platnost a účinnost k datu 9. 9. 2025
 
 ## Příloha č. 1 - Formulář pro odstoupení od smlouvy
 
