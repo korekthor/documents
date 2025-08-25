@@ -57,9 +57,11 @@
    12. Další licenční podmínky pro Základní druh služby:
        1. Objem opraveného textu je v tomto druhu Služby omezen. Je zakázáno toto omezení jakkoliv obcházet.
        2. Tento druh Služby je výhradně pro soukromé užití. Je zakázáno jej využívat pro komerční účely, a to i jako zaměstnanec.
+       3. Pokud není uvedeno jinak, limit pro opravy je 1 000 znaků měsíčně.
    14. Další licenční podmínky pro Osobní druh služby:
        1. Objem opraveného textu může být v tomto druhu Služby omezen. Omezení je ujednáno při uzavření kupní smlouvy podle Obchodních podmínek. Je zakázáno toto omezení jakkoliv obcházet.
        2. Tento druh Služby je výhradně pro soukromé užití. Je zakázáno jej využívat pro komerční účely, a to i jako zaměstnanec.
+       3. Pokud není uvedeno jinak, limit pro opravy je 1 000 000 000 znaků měsíčně.
    14. Další licenční podmínky pro Firemní druh služby
        1. Po zakoupení tohoto druhu služby právnickou osobou kupující poskytne Poskytovateli seznam e-mailových adres účtů zaměstnanců, které chce do svého plánu přidat. Ti se pak stávají firemními uživateli.
        2. Kupující právnická osoba smí do výše zmíněného seznamu zařadit pouze vlastní zaměstnance. Pro zařazení jiných osob (např. rodinných příslušníků, zaměstnanců dceřiné společnosti apod.) je nutné na toto pamatovat při uzavírání smlouvy Poskytovatelem.
@@ -77,4 +79,4 @@
    4. Podmínky včetně rozsahu poskytovaných služeb můžeme jednostranně změnit především z důvodu vývoje cen, na nichž je poskytování služeb závislé, z důvodu změny právní regulace oblasti, v níž působíme a v rámci níž poskytujeme služby, z důvodu vývoje nebo změny technologií využívaných při poskytování služeb nebo z důvodu změny rozsahu, formátu či jiných vlastností vstupních dat webové aplikace, které pochází od subjektů odlišných od poskytovatele služby. Změna Podmínek vám bude oznámena elektronickou zprávou prostřednictvím e-mailu na e-mailovou adresu uvedenou při registraci. V případě, že si nebudete přát být vázáni navrhovanou změnou Podmínek, máte právo změnu odmítnout a poskytování služeb vypovědět s výpovědní dobou 14 dní. Poskytování služeb musíte vypovědět zrušením uživatelského účtu dle těchto Podmínek. Ke dni uplynutí výpovědní doby vám zrušíme uživatelský účet. Vrácení již zaplacených částek se řídí platným právem, nad jeho rámec vrácení negarantujeme. V případě, že svůj účet nezrušíte zasláním oznámení do 14 dní od oznámení změny Podmínek, má se za to, že s novými Podmínkami souhlasíte.
    5. Podle změněných Podmínek podle předchozího odstavce se řídí i právní vztahy vzniklé přede dnem nabytí účinnosti nových Podmínek, avšak vznik práv a povinností, ke kterým došlo přede dnem nabytí účinnosti změn Podmínek, se posuzují podle dosavadního znění Podmínek.
 
-Tyto podmínky nabývají platnosti a účinnosti 9. 9. 2025
+Platnost 25. 8. 2025. Účinnost 9. 9. 2025
