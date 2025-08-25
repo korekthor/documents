@@ -116,4 +116,4 @@ Pro naplnění výše zmíněných práv nás kontaktujte na e-mailové adrese i
 
 Pokud si myslíte, že s daty nenakládáme správně, máte právo podat stížnost u [Úřadu pro ochranu osobních údajů](https://www.uoou.cz/), případně se se svými nároky obrátit na soud.
 
-Tyto podmínky jsou účinné od 9. 9. 2025
+Platnost 25. 8. 2025. Účinnost 9. 9. 2025
