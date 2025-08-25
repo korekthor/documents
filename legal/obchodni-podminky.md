@@ -64,7 +64,7 @@
 9. Přechodná ustanovení
    1. V době tvorby těchto podmínek nejsme plátci DPH. Ustanovení o DPH nabudou platnosti až poté, co se staneme plátci DPH.
 
-Platnost a účinnost k datu 9. 9. 2025
+Platnost 25. 8. 2025. Účinnost 9. 9. 2025
 
 ## Příloha č. 1 - Formulář pro odstoupení od smlouvy
 
