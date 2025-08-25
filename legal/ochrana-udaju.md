@@ -1,6 +1,6 @@
 # Zásady práce s Vašimi údaji
 
-Jsme společnost ComVisoft s.r.o., se sídlem Strmá 798, Kobeřice 747 27, IČO 09168991, zapsané v obchodním rejstříku pod sp. zn. C 82257 vedeném u Krajského soudu v Ostravě, e-mail info@korekthor.cz, telefonní číslo +420 603 362 907, adresa sídla Strmá 798, Kobeřice 747 27.
+Jsme společnost ComVisoft s.r.o., se sídlem Strmá 798, Kobeřice 747 27, IČO 09168991, zapsané v obchodním rejstříku pod sp. zn. C 82257 vedeném u Krajského soudu v Ostravě, e-mail info@korekthor.cz, telefonní číslo +420 603 362 907.
 
 Provozujeme webové stránky [korekthor.cz](https://www.korekthor.cz/)
 
