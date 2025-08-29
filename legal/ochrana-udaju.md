@@ -16,11 +16,11 @@ Od prvního přihlášení v naší databázi přechováváme váš e-mail. Te
 
 _Jak dlouho budeme osobní údaje zpracovávat?_
 
-Tak dlouho, jak jen to bude nutné. Kdykoliv ale máte právo na výmaz veškerých informací o vás prostřednictvím možnosti „Smazat účet“ v administraci vašeho účtu nebo žádostí na e-mailové adrese info@korekthor.cz.
+Tak dlouho, jak jen to bude nutné (zejména po dobu existence vašeho uživatelského účtu). Kdykoliv ale máte právo na výmaz veškerých informací o vás prostřednictvím možnosti „Smazat účet“ v administraci vašeho účtu nebo žádostí na e-mailové adrese info@korekthor.cz.
 
 ### Zpracování osobních údajů v případě nákupu
 
-Pokud u nás nakoupíte, budeme pracovat s údaji, které nám vyplníte. Jsou to hlavně fakturační údaje: jméno, příjmení, e-mailová adresa.
+Pokud u nás nakoupíte, budeme pracovat s údaji, které nám vyplníte. Jsou to hlavně fakturační údaje: jméno, příjmení, e-mailová adresa, adresa.
 
 _Z jakého důvodu?_
 
@@ -44,13 +44,16 @@ Na stránkách využíváme nástroje společností Google a Discord pro zajišt
 
 Osobní údaje zpracováváme pouze na území Evropské unie.
 
-## Využívání LLM při opravě textu
-Pro opravu textu využíváme vlastní algoritmy a neuronové sítě i nástroje třetích stran, konkrétně velké jazykové modely (LLM).
-
 ### Ochrana a anonymizace dat
-V souladu s našimi podmínkami použití je zakázáno vkládat do nástroje jakékoli texty obsahující osobní nebo jiné citlivé údaje. Váš text, který posíláte ke korektuře, je pro zajištění maximální bezpečnosti dat anonymizován a zasílán po částech. Modely LLM jej využívají výhradně pro generování opravené verze textu a neukládají jej.
+V rámci poskytování našich služeb využíváme nástroje třetích stran, zejména velké jazykové modely (LLM) od společností Google LLC, OpenAI, Anthropic PBC a Meta Platforms, Inc. Tyto společnosti mají sídlo ve Spojených státech amerických (USA), a proto může v některých případech dojít k předávání údajů mimo Evropskou unii.
 
-Pro opravu textu mohou být využívány služby společností Google, OpenAI, Anthropic nebo Meta. Tyto služby mají přístup pouze k opravovanému textu, nezasíláme jim jakékoliv Vaše údaje ani anonymizované identifikátory uživatele.
+Pro zajištění souladu s právními předpisy EU je toto předávání založeno na:
+
+rozhodnutí Evropské komise o odpovídající ochraně podle článku 45 GDPR (EU–US Data Privacy Framework), pokud je příjemce jeho účastníkem, nebo
+
+standardních smluvních doložkách Evropské komise podle článku 46 GDPR, které zajišťují odpovídající úroveň ochrany.
+
+Před odesláním textů k jazykovému modelu provádíme jejich anonymizaci, aby nebyly předávány žádné identifikovatelné osobní údaje. Zasílaný obsah slouží výhradně k vygenerování opravené verze textu a není dále ukládán.
 
 ## Co byste dál měli vědět
 
