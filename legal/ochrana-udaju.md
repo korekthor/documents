@@ -1,6 +1,6 @@
 # Zásady práce s Vašimi údaji
 
-Jsme společnost ComVisoft s.r.o., se sídlem Strmá 798, Kobeřice 747 27, IČO 09168991, zapsané v obchodním rejstříku pod sp. zn. C 82257 vedeném u Krajského soudu v Ostravě, e-mail info@korekthor.cz, telefonní číslo +420 603 362 907, adresa sídla Strmá 798, Kobeřice 747 27.
+Jsme společnost ComVisoft s.r.o., se sídlem Strmá 798, Kobeřice 747 27, IČO 09168991, zapsané v obchodním rejstříku pod sp. zn. C 82257 vedeném u Krajského soudu v Ostravě, e-mail info@korekthor.cz, telefonní číslo +420 603 362 907.
 
 Provozujeme webové stránky [korekthor.cz](https://www.korekthor.cz/)
 
@@ -16,11 +16,11 @@ Od prvního přihlášení v naší databázi přechováváme váš e-mail. Te
 
 _Jak dlouho budeme osobní údaje zpracovávat?_
 
-Tak dlouho, jak jen to bude nutné. Kdykoliv ale máte právo na výmaz veškerých informací o vás prostřednictvím možnosti „Smazat účet“ v administraci vašeho účtu nebo žádostí na e-mailové adrese info@korekthor.cz.
+Tak dlouho, jak jen to bude nutné (zejména po dobu existence vašeho uživatelského účtu). Kdykoliv ale máte právo na výmaz veškerých informací o vás prostřednictvím možnosti „Smazat účet“ v administraci vašeho účtu nebo žádostí na e-mailové adrese info@korekthor.cz.
 
 ### Zpracování osobních údajů v případě nákupu
 
-Pokud u nás nakoupíte, budeme pracovat s údaji, které nám vyplníte. Jsou to hlavně fakturační údaje: jméno, příjmení, e-mailová adresa.
+Pokud u nás nakoupíte, budeme pracovat s údaji, které nám vyplníte. Jsou to hlavně fakturační údaje: jméno, příjmení, e-mailová adresa, adresa.
 
 _Z jakého důvodu?_
 
@@ -40,9 +40,20 @@ Po dobu plnění naší služby a poté takovou dobu od posledního poskytnutí 
 
 Vaše data zůstanou u nás.
 
-Na stránkách využíváme nástroje společností Google a Discord.
+Na stránkách využíváme nástroje společností Google a Discord pro zajištění přihlašování.
 
 Osobní údaje zpracováváme pouze na území Evropské unie.
+
+### Ochrana a anonymizace dat
+V rámci poskytování našich služeb využíváme nástroje třetích stran, zejména velké jazykové modely (LLM) od společností Google LLC, OpenAI, Anthropic PBC a Meta Platforms, Inc. Tyto společnosti mají sídlo ve Spojených státech amerických (USA), a proto může v některých případech dojít k předávání údajů mimo Evropskou unii.
+
+Pro zajištění souladu s právními předpisy EU je toto předávání založeno na:
+
+rozhodnutí Evropské komise o odpovídající ochraně podle článku 45 GDPR (EU–US Data Privacy Framework), pokud je příjemce jeho účastníkem, nebo
+
+standardních smluvních doložkách Evropské komise podle článku 46 GDPR, které zajišťují odpovídající úroveň ochrany.
+
+Před odesláním textů k jazykovému modelu provádíme jejich anonymizaci, aby nebyly předávány žádné identifikovatelné osobní údaje. Zasílaný obsah slouží výhradně k vygenerování opravené verze textu a není dále ukládán.
 
 ## Co byste dál měli vědět
 
@@ -108,4 +119,4 @@ Pro naplnění výše zmíněných práv nás kontaktujte na e-mailové adrese i
 
 Pokud si myslíte, že s daty nenakládáme správně, máte právo podat stížnost u [Úřadu pro ochranu osobních údajů](https://www.uoou.cz/), případně se se svými nároky obrátit na soud.
 
-Tyto podmínky jsou účinné od 5. 11. 2023
+Platnost 25. 8. 2025. Účinnost 9. 9. 2025
