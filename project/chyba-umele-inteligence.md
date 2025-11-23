@@ -4,7 +4,7 @@ Chyba umělé inteligence je jedním z nejčastějších problémů, se kterým 
 ### Ve zkratce: Jde o vzácný chybový scénář. Na problém nás systém sám upozorní a budeme pracovat na jeho odstranění.
 
 ## Co způsobuje chybu umělé inteligence?
-Jazyk je složitý, a tak musí být složitý i systém, který se v něm snaží hledat chyby. Chyba umělé inteligence vzniká v tom nejsložitějším článku našeho kódu, který rozděluje a zpracovává jednotlivé věty tak, aby je mohly zpracovat naše neuronové sítě. A právě proto, že je čeština tak složitá, stále se najdou texty s problémovými pasážemi, které naše testování neodhalilo. 
+Jazyk je složitý, a tak musí být složitý i systém, který se v něm snaží hledat chyby. Chyba umělé inteligence vzniká v tom nejsložitějším článku našeho kódu, který rozděluje a zpracovává jednotlivé věty tak, aby je mohly zpracovat neuronové sítě a LLM. A právě proto, že je čeština tak složitá, stále se najdou texty s problémovými pasážemi, které naše testování neodhalilo. 
 
 Chyba tak není na straně vašeho počítače. Nepomůže vám otevření nového okna ani využití jiného zařízení.
 
