@@ -12,7 +12,7 @@ Rozšíření nefunguje v Google Docs ani Microsoft Wordu, jinak je ale podpora 
 
   ![Screenshot from 2024-11-25 07-57-32](https://github.com/user-attachments/assets/695573cb-d60d-4ecb-a901-f58c6827a12d)
 
-2. Přejdete na stránku, kde chcete text opravit.
+  2. Přejdete na stránku, kde chcete text opravit.
 
   ![Screenshot from 2024-11-25 08-02-18](https://github.com/user-attachments/assets/d53bee9a-a0d5-4178-bea9-d215273d7c40)
 
