@@ -6,7 +6,7 @@
    4. Jak jistě víte, tak komunikujeme primárně na dálku. Proto i pro naši Smlouvu platí, že jsou použity prostředky komunikace na dálku, které umožňují, abychom se spolu dohodli bez současné fyzické přítomnosti Nás a Vás, a Smlouva je tak uzavřena distančním způsobem v prostředí Stránek, a to prostřednictvím rozhraní webové stránky („Stránky“).
    5. Pokud některá část Podmínek odporuje tomu, co jsme si společně schválili v rámci procesu Vašeho nákupu na Našich Stránkách, bude mít tato konkrétní dohoda před Podmínkami přednost.)
    6. Na využívání služeb se dále vztahují [Podmínky užití](https://korekthor.cz/podminky-uziti). Některé definice a ujednání v těchto Podmínkách jsou součástí Podmínek užití. Seznamte se s nimi tedy, prosím, před uzavřením kupní smlouvy.
-2. Některé definice
+3. Některé definice
    1. Cena je finanční částka, kterou budete hradit za služby;
    2. DPH je daň z přidané hodnoty dle platných právních předpisů;
    3. Faktura je daňový doklad vystavený v souladu se zákonem o dani z přidané hodnoty na Celkovou cenu;
@@ -14,10 +14,10 @@
    5. Uživatelský účet je účet zřízený na základě Vámi sdělených údajů, jež umožňuje uchování zadaných údajů a uchovávání historie objednaných Služeb a uzavřených Smluv;
    6. Vy jste osoba nakupující na našich Stránkách, právními předpisy označovaná jako kupující;
    7. Službami se rozumí předplatná dostupná na našich Stránkách. Zakoupením Služeb získáváte licenci k využití našich nástrojů upřesněnou [zde](https://korekthor.cz/podminky-uziti).
-3. Obecná ustanovení a poučení
+4. Obecná ustanovení a poučení
    1. Koupě Služeb je možná jen přes webové rozhraní Stránek.
    2. Při nákupu Služby je Vaše povinnost poskytnout Nám všechny informace správně a pravdivě. Informace, které jste Nám poskytli v Objednávce budeme tedy považovat za správné a pravdivé.
-4. Uzavření smlouvy
+5. Uzavření smlouvy
    1. Smlouvu s Námi je možné uzavřít pouze v českém jazyce.
    2. Smlouva je uzavírána na dálku prostřednictvím Stránek, přičemž náklady na použití komunikačních prostředků na dálku hradíte Vy. Tyto náklady se však nijak neliší od základní sazby, kterou hradíte za používání těchto prostředků (tedy zejména za přístup k internetu), žádné další náklady účtované Námi tedy nad rámec Ceny nemusíte očekávat. Odesláním Objednávky souhlasíte s tím, že prostředky komunikace na dálku využíváme.
    3. K tomu, abychom mohli Smlouvu uzavřít, je třeba, abyste na Stránkách vytvořili Objednávku. V tomto návrhu musí být uvedeny následující údaje:
@@ -32,7 +32,7 @@
    10. V případě, že máte zřízen Uživatelský účet se zadanými osobními údaji, můžete využít jejich předvyplnění. I v takovém případě máte ale povinnost zkontrolovat správnost, pravdivost a úplnost těchto údajů.
    11. V některých případech umožňujeme na nákup Služeb využít slevu. Pro poskytnutí slevy je třeba, abyste v rámci návrhu Objednávky vyplnili údaje o této slevě do předem určeného pole. Pokud tak učiníte, bude Vám Služby poskytnuty se slevou.
    12. Uživatel bere na vědomí, že Služba využívá technologie umělé inteligence a její fungování není bezchybné. Poskytovatel služby nenese odpovědnost za nepřesnosti, chyby nebo jiné nedostatky ve výstupech generovaných Službou. Uživatel je plně odpovědný za kontrolu a správnost výsledného textu.
-5. Cenové a platební podmínky, výhrada vlastnického práva
+6. Cenové a platební podmínky, výhrada vlastnického práva
    1. Cena je vždy uvedena v rámci Stránek, v návrhu Objednávky a samozřejmě ve Smlouvě. V případě rozporu mezi Cenou uvedenou u Služeb v rámci Stránek a Cenou uvedenou v návrhu Objednávky se uplatní Cena uvedená v návrhu Objednávky, která bude vždy totožná s cenou ve Smlouvě.
    2. Celková cena je uvedena včetně DPH včetně veškerých poplatků stanovených zákonem.
    3. Platbu Ceny po Vás budeme požadovat po uzavření Smlouvy a před poskytnutím Služeb. Úhradu Celkové ceny můžete provést následujícími způsoby:
@@ -40,7 +40,7 @@
    4. Faktura bude vystavena v elektronické podobě po uhrazení Celkové ceny a bude zaslána na Vaši e-mailovou adresu. Faktura bude též dostupná v Uživatelském účtu.
    5. Kupující má možnost zvolit při dokončování objednávky automatické platby. V tom případě bude Služba automaticky obnovena ve zvoleném intervalu automatickým stržením peněz z platební karty. Tato obnovení budou probíhat až do ukončení předplatného (v zákaznické administraci či e-mailem).
    6. O zpřístupnění služeb budete informováni e-mailem. Tím vám nevzniká vlastnické právo na software, máte pouze právo službu využívat podle licence dostupné [zde](https://korekthor.cz/podminky-uziti).
-6. Odstoupení od smlouvy
+7. Odstoupení od smlouvy
    1. K odstoupení od Smlouvy, tedy k ukončení smluvního vztahu mezi Námi a Vámi od jeho počátku, může dojít z důvodů a způsoby uvedenými v tomto článku, případně v dalších ustanoveních Podmínek, ve kterých je možnost odstoupení výslovně uvedena.
    2. V případě, že jste spotřebitel, tedy osoba kupující Služby mimo rámec své podnikatelské činnosti, máte v souladu s ustanovením §1829 občanského zákoníku právo odstoupit od Smlouvy bez udání důvodu ve lhůtě 14 dnů ode dne uzavření Smlouvy. V případě, že bude zpřístupnění nástroje oproti uzavření smlouvy opožděno, začíná tato lhůta zpřístupněním služby.
    3. Od Smlouvy můžete odstoupit jakýmkoliv prokazatelným způsobem (zejména zasláním e-mailu nebo dopisu na Naše adresy uvedené u Našich identifikačních údajů). Pro odstoupení můžete využít také vzorový formulář poskytovaný z Naší strany, který tvoří přílohu č. 1 Podmínek.
@@ -48,12 +48,12 @@
    5. Lhůta k odstoupení dle čl. 8.2 Podmínek se považuje za zachovanou, pokud Nám v jejím průběhu odešlete oznámení, že od Smlouvy odstupujete.
    6. V případě odstoupení od Smlouvy Vám bude Cena vrácena do 14 dnů ode dne účinnosti odstoupení na účet, ze kterého byla připsána, případně na účet zvolený odstoupení od Smlouvy.
    7. My jsme oprávněni odstoupit od Smlouvy kdykoliv před tím, než Vám poskytneme Služby, pokud existují objektivní důvody, proč není možné Služby poskytnout, a to i před uplynutím doby uvedené v čl. 7.1 Podmínek. Můžeme také od Smlouvy odstoupit, pokud je zjevné, že jste uvedli v Objednávce záměrně nesprávné informace.
-7. Řešení sporu se spotřebiteli
+8. Řešení sporu se spotřebiteli
    1. Nejsme ve vztahu ke kupujícím vázáni žádnými kodexy chování ve smyslu ustanovení § 1826 odst. 1 písm. e) Občanského zákoníku.
    2. Vyřizování stížností spotřebitelů zajišťujeme prostřednictvím elektronické adresy info@korekthor.cz. Informaci o vyřízení stížnosti zašleme na elektronickou adresu kupujícího.
    3. K mimosoudnímu řešení spotřebitelských sporů ze Smlouvy je příslušná Česká obchodní inspekce, se sídlem Štěpánská 796/44, 110 00 Praha 1, IČ: 000 20 869, internetová adresa: http://www.coi.cz. Platformu pro řešení sporů on-line nacházející se na internetové adrese http://ec.europa.eu/consumers/odr je možné využít při řešení sporů mezi prodávajícím a kupujícím, který je spotřebitelem, z kupní smlouvy uzavřené elektronickými prostředky.
    4. Evropské spotřebitelské centrum Česká republika, se sídlem Štěpánská 796/44, 110 00 Praha 1, internetová adresa: http://www.evropskyspotrebitel.cz je kontaktním místem podle Nařízení Evropského parlamentu a Rady (EU) č. 524/2013 ze dne 21. května 2013, o řešení spotřebitelských sporů on-line a o změně nařízení (ES) č. 2006/2004 a směrnice 2009/22/ES (nařízení o řešení spotřebitelských sporů on-line).
-8. Závěrečná ustanovení
+9. Závěrečná ustanovení
    1. Pokud Náš a Váš právní vztah obsahuje mezinárodní prvek, bude se vztah vždy řídit právem České republiky. Pokud jste však spotřebitelé, nejsou tímto ujednáním dotčena Vaše práva plynoucí z právních předpisů.
    2. Veškerou písemnou korespondenci si s Vámi budeme doručovat elektronickou poštou. Naše e-mailová adresa je uvedena u Našich identifikačních údajů. My budeme doručovat korespondenci na Vaši e-mailovou adresu uvedenou ve Smlouvě, v Uživatelském účtu nebo přes kterou jste nás kontaktovali.
    3. Smlouvu je možné měnit pouze na základě naší písemné dohody. My jsme však oprávněni změnit a doplnit tyto Podmínky. O změně Vás však budeme informovat pouze v případě, že máte vytvořený Uživatelský účet (abyste tuto informaci měli v případě, že budete objednávat nové Služby, změna však nezakládá právo výpovědi, jelikož nemáme uzavřenou Smlouvu, kterou by bylo možné vypovědět). Informace o změně Vám zašleme na Vaši e-mailovou adresu nejméně 14 dní před účinností této změny. Pokud od Vás do 14 dnů od zaslání informace o změně neobdržíme výpověď uzavřené Smlouvy, stávají se nové podmínky součástí naší Smlouvy. Vypořádání nevyužité doby předplatného se bude řídit podle zákonů.
@@ -61,7 +61,7 @@
    5. Přílohou Podmínek je vzorový formulář pro odstoupení od Smlouvy.
    6. Smlouva včetně Podmínek je archivována v elektronické podobě u Nás, ale není Vám přístupná. Vždy však tyto Podmínky a potvrzení Objednávky se shrnutím Objednávky obdržíte e-mailem a budete tedy mít vždy přístup ke Smlouvě i bez Naší součinnosti. Doporučujeme vždy potvrzení Objednávky a Podmínky uložit.
 
-9. Přechodná ustanovení
+10. Přechodná ustanovení
    1. V době tvorby těchto podmínek nejsme plátci DPH. Ustanovení o DPH nabudou platnosti až poté, co se staneme plátci DPH.
 
 Platnost 25. 8. 2025. Účinnost 9. 9. 2025
