@@ -15,6 +15,7 @@ Zpracování osobních údajů upravuje zejména nařízení Evropského parlame
 Od prvního přihlášení v naší databázi přechováváme váš e-mail a profilový obrázek. Tyto údaje jsou zpracovávány v souladu s platnými právními předpisy.
 
 _Z jakého důvodu?_
+
 Abychom vám mohli poskytovat naše služby. Údaje slouží jako identifikátor uživatelského účtu a mohou být také využity k dalším účelům, se kterými budete souhlasit (např. newsletter).
 
 _Jak dlouho budeme osobní údaje zpracovávat?_
