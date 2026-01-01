@@ -12,7 +12,10 @@ Zpracování osobních údajů upravuje zejména nařízení Evropského parlame
 
 ### Běžné zpracování
 
-Od prvního přihlášení v naší databázi přechováváme váš e-mail. Tento údaj je zpracováván v souladu s platnými právními předpisy.
+Od prvního přihlášení v naší databázi přechováváme váš e-mail a profilový obrázek. Tyto údaje jsou zpracovávány v souladu s platnými právními předpisy.
+
+_Z jakého důvodu?_
+Abychom vám mohli poskytovat naše služby. Údaje slouží jako identifikátor uživatelského účtu a mohou být také využity k dalším účelům, se kterými budete souhlasit (např. newsletter).
 
 _Jak dlouho budeme osobní údaje zpracovávat?_
 
@@ -38,7 +41,7 @@ Po dobu plnění naší služby a poté takovou dobu od posledního poskytnutí 
 
 ## Kdo se k datům dostane?
 
-Vaše data zůstanou u nás.
+Vaše data zůstanou u nás. Pro jejich zabezpečení jsou nastaveny interní procesy.
 
 Na stránkách využíváme nástroje společností Google a Discord pro zajištění přihlašování.
 
