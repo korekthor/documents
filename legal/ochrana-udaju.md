@@ -12,7 +12,7 @@ Zpracování osobních údajů upravuje zejména nařízení Evropského parlame
 
 ### Běžné zpracování
 
-Od prvního přihlášení v naší databázi přechováváme váš e-mail a profilový obrázek. Tyto údaje jsou zpracovávány v souladu s platnými právními předpisy.
+Od prvního přihlášení v naší databázi přechováváme váš e-mail, profilový obrázek a ID vašeho Discord nebo Google účtu (podle toho, jakou metodu jste využili při přihlašování). Tyto údaje jsou zpracovávány v souladu s platnými právními předpisy.
 
 _Z jakého důvodu?_
 
