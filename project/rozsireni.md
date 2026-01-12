@@ -1,7 +1,7 @@
-# Rozšíření korekthor
+# Rozšíření korekthor pro prohlížeče
 Rozšíření vám umožní korekthor využívát napříč celým internetem. Nemusíte texty pracně kopírovat do našeho editoru, korekthor chyby najde v téměř jakémkoliv textovém poli na webové stránce. Pro použití je nutné mít předplatné korekthor.
 
-### korekthor funguje v Chromu
+### korekthor funguje v Chromu a Edgi
 Podporu pro další prohlížeče připravujeme.
 
 ### Rozšíření opraví e-maily
