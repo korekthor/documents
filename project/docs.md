@@ -3,9 +3,9 @@ Rozšíření vám umožní korekthor využívat v Dokumentech Google. Nemusíte
 
 ## Rychlá pomoc: nejde se přihlásit?
 Nejde se Vám přihlásit do rozšíření? Než napíšete na info@korekthor.cz, zkuste toto:
-1. Ověřte, že fungují [stránky korekthor](https://korekthor.cz).
-2. Odeberte rozšíření z Dokumentů Google (Rozšíření -> Doplňky -> Spravovat doplňky).
-3. Znovu přidejte rozšíření korekthor z (Rozšíření -> Doplňky -> Získat doplňky), tentokrát ale ověřte, že jste při ověřování přes Google účet označili všechny žádané přístupy:
+- Ověřte, že fungují [stránky korekthor](https://korekthor.cz).
+- Odeberte rozšíření z Dokumentů Google (Rozšíření -> Doplňky -> Spravovat doplňky).
+- Znovu přidejte rozšíření korekthor z (Rozšíření -> Doplňky -> Získat doplňky), tentokrát ale ověřte, že jste při ověřování přes Google účet označili všechny žádané přístupy:
     ![Nastavit přístupy](https://github.com/user-attachments/assets/a8ebc46a-32d3-43a9-b4e9-6616507408a5)
    
 Přihlášení by pak mělo proběhnout bez problémů.
