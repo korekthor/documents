@@ -1,6 +1,6 @@
 # Podmínky užití stránek korekthor.cz a licenční podmínky
 1. Základní ustanovení
-   1. „Námi“ nebo „Poskytovatelem“ se pro tento dokument rozumí společnost ComVisoft s.r.o., se sídlem Strmá 798, Kobeřice 747 27, IČO 09168991, zapsané v obchodním rejstříku pod sp. zn. C 82257 vedeném u Krajského soudu v Ostravě, e-mail info@korekthor.cz, telefonní číslo +420 603 362 907, která rovněž provozuje stránky korekthor.cz
+   1. „Námi“ nebo „Poskytovatelem“ se pro tento dokument rozumí společnost ComVisoft s.r.o., se sídlem Strmá 798, Kobeřice 747 27, IČO 09168991, zapsané v obchodním rejstříku pod sp. zn. C 82257 vedeném u Krajského soudu v Ostravě, e-mail info@korekthor.cz, telefonní číslo +420 728 304 104, která rovněž provozuje stránky korekthor.cz
    2. „Softwarem“ nebo „Službou“ se pro tento dokument rozumí webová aplikace https://korekthor.cz a rozšíření do prohlížeče korekthor. Webová aplikace a rozšíření poskytují automatickou opravu chyb v česky psaných textech.
    3. Služby poskytujeme:
         1. V omezeném rozsahu a zdarma pro nepřihlášené návštěvníky (dále „návštěvník“).
