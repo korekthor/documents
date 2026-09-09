@@ -62,7 +62,7 @@
        1. Objem opraveného textu může být v tomto druhu Služby omezen. Omezení je ujednáno při uzavření kupní smlouvy podle Obchodních podmínek. Je zakázáno toto omezení jakkoliv obcházet.
        2. Tento druh Služby je výhradně pro soukromé užití. Je zakázáno jej využívat pro komerční účely, a to i jako zaměstnanec.
        3. Pokud není uvedeno jinak, limit pro opravy je 1 000 000 000 znaků měsíčně.
-   14. Další licenční podmínky pro Firemní druh služby
+   15. Další licenční podmínky pro Firemní druh služby
        1. Po zakoupení tohoto druhu služby právnickou osobou kupující poskytne Poskytovateli seznam e-mailových adres účtů zaměstnanců, které chce do svého plánu přidat. Ti se pak stávají firemními uživateli.
        2. Kupující právnická osoba smí do výše zmíněného seznamu zařadit pouze vlastní zaměstnance. Pro zařazení jiných osob (např. rodinných příslušníků, zaměstnanců dceřiné společnosti apod.) je nutné na toto pamatovat při uzavírání smlouvy Poskytovatelem.
 6. Odpovědnost
