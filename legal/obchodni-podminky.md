@@ -60,7 +60,7 @@ Tímto ustanovením nejsou dotčena práva a povinnosti vzniklá po dobu účinn
    4. V případě vyšší moci nebo událostí, které nelze předvídat (přírodní katastrofa, pandemie, provozní poruchy), neneseme odpovědnost za škodu způsobenou v důsledku nebo souvislosti s případy vyšší moci, a pokud stav vyšší moci trvá po dobu delší než 10 dnů, máme My i Vy právo od Smlouvy odstoupit.
    5. Smlouva včetně Podmínek je archivována v elektronické podobě u Nás, ale není Vám přístupná. Vždy však tyto Podmínky a potvrzení Objednávky se shrnutím Objednávky obdržíte e-mailem a budete tedy mít vždy přístup ke Smlouvě i bez Naší součinnosti. Doporučujeme vždy potvrzení Objednávky a Podmínky uložit.
 
-10. Přechodná ustanovení
+9. Přechodná ustanovení
    1. V době tvorby těchto podmínek nejsme plátci DPH. Ustanovení o DPH nabudou platnosti až poté, co se staneme plátci DPH.
 
 Účinnost 10. 9. 2025
