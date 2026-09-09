@@ -15,12 +15,12 @@ Přihlášení by pak mělo proběhnout bez problémů.
 2. Najděte rozšíření korekthor a klikněte instalovat.
    ![Google rozšíření korekthor](https://github.com/user-attachments/assets/160149fb-a704-40d5-89e5-da718361fd59)
 
-3. Potrďte aplikaci všechny žádané přístupy, jsou nutné pro jeho funkčnost.
+3. Potvrďte aplikaci všechny žádané přístupy, jsou nutné pro jeho funkčnost.
     ![Nastavit přístupy](https://github.com/user-attachments/assets/a8ebc46a-32d3-43a9-b4e9-6616507408a5)
    
-5. Obnovte stránku (klávesa F5 nebo ikona v prohlížeči).
-6. V Rozšíření -> Doplňky -> Korekthor teď najdete záložku Oprava pravopisu, klikněte na ni.
+4. Obnovte stránku (klávesa F5 nebo ikona v prohlížeči).
+5. V Rozšíření -> Doplňky -> Korekthor teď najdete záložku Oprava pravopisu, klikněte na ni.
     ![Nastavit přístupy](https://github.com/user-attachments/assets/4717112d-2f7d-40e5-bd62-a593ad606ceb)
    
-7. Rozšíření vás navede na přihlášení. Po přihlášení můžete začít opravovat.
+6. Rozšíření vás navede na přihlášení. Po přihlášení můžete začít opravovat.
    ![Opravení textu](https://github.com/user-attachments/assets/bd75af6a-fd0e-4734-80b8-9ca585e3d4e8)
