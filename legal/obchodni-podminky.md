@@ -35,8 +35,7 @@
 5. Cenové a platební podmínky, výhrada vlastnického práva
    1. Cena je vždy uvedena v rámci Stránek, v návrhu Objednávky a samozřejmě ve Smlouvě. V případě rozporu mezi Cenou uvedenou u Služeb v rámci Stránek a Cenou uvedenou v návrhu Objednávky se uplatní Cena uvedená v návrhu Objednávky, která bude vždy totožná s cenou ve Smlouvě.
    2. Celková cena je uvedena včetně DPH včetně veškerých poplatků stanovených zákonem.
-   3. Platbu Ceny po Vás budeme požadovat po uzavření Smlouvy a před poskytnutím Služeb. Úhradu Celkové ceny můžete provést následujícími způsoby:
-      1. Bankovní převod prostřednictvím platební brány Comgate, přičemž platba se řídí podmínkami této platební brány, které jsou dostupné na adrese: https://www.comgate.cz/blog/platebni-metoda-bankovni-prevod.
+   3. Platbu Ceny po Vás budeme požadovat po uzavření Smlouvy a před poskytnutím Služeb. Úhradu Celkové ceny můžete provést prostřednictvím platební brány Comgate.
    4. Faktura bude vystavena v elektronické podobě po uhrazení Celkové ceny a bude zaslána na Vaši e-mailovou adresu. Faktura bude též dostupná v Uživatelském účtu.
    5. Kupující má možnost zvolit při dokončování objednávky automatické platby. V tom případě bude Služba automaticky obnovena ve zvoleném intervalu automatickým stržením peněz z platební karty. Tato obnovení budou probíhat až do ukončení předplatného (v zákaznické administraci či e-mailem).
    6. O zpřístupnění služeb budete informováni e-mailem. Tím vám nevzniká vlastnické právo na software, máte pouze právo službu využívat podle licence dostupné [zde](https://korekthor.cz/podminky-uziti).
@@ -63,4 +62,4 @@ Tímto ustanovením nejsou dotčena práva a povinnosti vzniklá po dobu účinn
 9. Přechodná ustanovení
    1. V době tvorby těchto podmínek nejsme plátci DPH. Ustanovení o DPH nabudou platnosti až poté, co se staneme plátci DPH.
 
-Účinnost 10. 9. 2025
+Účinnost 22. 9. 2025
