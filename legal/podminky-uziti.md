@@ -1,82 +1,69 @@
 # Podmínky užití stránek korekthor.cz a licenční podmínky
-1. Základní ustanovení
-   1. „Námi“ nebo „Poskytovatelem“ se pro tento dokument rozumí společnost ComVisoft s.r.o., se sídlem Strmá 798, Kobeřice 747 27, IČO 09168991, zapsané v obchodním rejstříku pod sp. zn. C 82257 vedeném u Krajského soudu v Ostravě, e-mail info@korekthor.cz, telefonní číslo +420 728 304 104, která rovněž provozuje stránky korekthor.cz
-   2. „Softwarem“ nebo „Službou“ se pro tento dokument rozumí webová aplikace https://korekthor.cz a rozšíření do prohlížeče korekthor. Webová aplikace a rozšíření poskytují automatickou opravu chyb v česky psaných textech.
-   3. Služby poskytujeme:
-        1. V omezeném rozsahu a zdarma pro nepřihlášené návštěvníky (dále „návštěvník“).
-        2. V omezeném rozsahu a zdarma pro přihlášené uživatele (dále „uživatel bez předplatného“).
-        3. V rozsahu upřesněném obchodními podmínkami a za úhradu pro přihlášené uživatele (dále „uživatel s předplatným“).
-        4. V rozsahu upřesněném smlouvou a za úhradu pro přihlášené uživatele, jejichž předplatné spravuje zaměstnavatel nebo jsou sami předplácejícím zaměstnavatelem (dále „firemní uživatel“). Firemním uživatelem se může rozumět jak fyzická tak právnická osoba.
-   4. „Uživatelem“ se v rámci těchto podmínek rozumí uživatel bez předplatného, uživatel s předplatným i firemní uživatel.
-   5. „Vámi“ se v rámci těchto podmínek rozumí jak uživatel, tak návštěvník.
-   6. Používáním našeho softwaru mezi Vámi a Námi dochází ke vzniku smlouvy o poskytování služeb a k poskytnutí licence, na které se vztahují tyto podmínky (dále jen „Podmínky“), dále naše [Zásady práce s vašimi údaji](https://korekthor.cz/ochrana-udaju) (dále jen „Zásady“), v případě, že s námi uzavíráte kupní smlouvu, také [Obchodní podmínky](https://korekthor.cz/obchodni-podminky) a také veškeré ostatní smlouvy, které mezi Námi a Vámi vzniknou (jimi ujednané skutečnosti jsou vždy nadřazené obecným podmínkám). Užíváním softwaru berete na vědomí, že jsou pro vás tyto Podmínky závazné.
-2. Podmínky užití služeb
-   1. Rozsah poskytovaných služeb je vždy přesně uveden na [stránce předplatných](https://korekthor.cz) nebo na smlouvě.
-   2. Přístupem na Stránky potvrzujete, že jste se seznámili s veškerými podmínkami pro něj platnými podle ustanovení 1.VI, budete je dodržvat a že jsou vaše znalosti práce s chytrou elektronikou dostatečné pro návštěvu a užívání Stránek.
-   3. Uživatel přístupem na Stránky rovněž potvrzuje, že zkontroloval zařízení, prostřednictvím kterého na Stránky přistupuje, a toto zařízení neobsahuje žádný škodlivý software (zejména počítačové viry).
-   4. Nespolupracujeme s Ústavem pro jazyk český ani podobnými organizacemi. Jakékoliv informace o českém jazyce na těchto stránkách tak přes Naše snahy nemusí být pravdivé. Uživatel si tohoto je vědom.
-   5. Uživatel si uvědomuje, že Software není stoprocentní a chybuje.
-   6. Veškerý obsah Stránek je duševním vlastnictvím podle autorského práva, chráněného zejména zákonem č. 121/2000 Sb. Všechna práva jsou vyhrazena.
-   7. Uživatel se zavazuje, že nebude vykonávat žádnou činnost, která by mohla jemu nebo třetím osobám umožnit neoprávněné užití software.
-   8. Obsah smlouvy vznikající podle ustanovení 1.VI., tedy Vaše i Naše práva a povinnosti, jsou určeny těmito Podmínkami, informacemi na webových stránkách, kde na ně Podmínky odkazují, našimi Zásadami, případně Obchodními podmínkami nebo sjednanými smlouvami, včetně obsahu, na který Zásady, Podmínky nebo Obchodní podmínky odkazují, ve znění účinném ke dni vytvoření uživatelského účtu, nebo používání webové aplikace, případně ve znění pozdějších změn.
-   9. Smlouva s uživatelem zaniká zrušením účtu, smlouva s návštěvníkem opuštěním Softwaru. Smlouva se uzavírá na dobu určitou odpovídající trvání vašeho uživatelského účtu uživatele nebo trvání návštěvy Softwaru návštěvníkem. Smlouva dále zaniká naším zánikem bez právního nástupce.
-   10. Při využívání Služeb jste povinni zadávat vždy jen pravdivé a úplné údaje vztahující se k vaší osobě, a to nejen jejich vyplněním v rámci rozhraní uživatelského účtu, ale rovněž v případných dotaznících vyplněných prostřednictvím našich webových stránek apod.
-   11. Služby můžete využívat pouze v rozsahu, který vám umožňuje rozhraní Softwaru a tyto Podmínky.
-   12. Oprava textu probíhá kombinací našich algoritmických systémů, našich systémů využívajících neuronové sítě a systémů třetích stran (zejména velkých jazykových modelů).
-   13. Máte plnou odpovědnost za obsah, který do služeb vkládáte. Zejména za obsah, který necháte nástroj opravit, odpovídáte výlučně vy a je vaší povinností, abyste si zkontrolovali, zda nejednáte v rozporu s obecně závaznými předpisy, dobrými mravy či zda nezasahujete jakkoli jinak do práv třetích osob. V případě, že nám v návaznosti na vámi vložený obsah bude udělena sankce ze strany orgánu veřejné moci či jakákoli jiná povinnost k náhradě škody třetí osoby, jste povinni nám tuto v celé výši uhradit.
-   14. Je zakázáno nechávat Software opravovat text, který obsahuje osobní nebo jiné citlivé údaje.
-3. Uživatelský účet
-   1. Založení uživatelského účtu je bezplatné. Založit uživatelský účet je možné prostřednictvím účtů Google nebo Discord.
-   2. Zrušení uživatelského účtu je možné v rozhraní [webových stránek korekthor.cz](https://korekthor.cz/) nebo e-mailem na adresu info@korekthor.cz
-   3. Kontrolu nad údaji a daty, které do webové aplikace vložíte, souhlasy se zpracováním osobních údajů, odběry novinek a případnými dalšími daty souvisejícími s vaším uživatelským účtem, máte pouze vy. Jak s vašimi daty nakládáme upravují [Zásady práce s vašimi údaji](https://korekthor.cz/ochrana-udaju).
-   4. Jsme oprávněni bez předchozího upozornění zrušit uživatelský účet a smazat veškerá vložená data, údaje či obsah, technickými prostředky blokovat či omezit přístup k rozhraní naší webové aplikacie a dalším službám, a to i do budoucna v případech, kdy porušíte tyto Podmínky, obecně závazné právní předpisy, dobré mravy nebo obecně uznávané etické principy či jinak pácháte nebo alespoň napomáháte k páchání protiprávní činnosti, a rovněž v případech, kdy jinak znehodnotíte či zneužijete naši práci.
-   5. Rovněž jsme oprávněni bez předchozího upozornění zrušit uživatelský účet a smazat veškerá vložená data, údaje či obsah, v případě, že se ke svému účtu déle než 12 měsíců nepřihlásíte a nemáte současně aktivované předplatné.
-   6. V případě, že učiníme některé z opatření uvedených v bodě 3.IV nebo 3.V z důvodů uvedených tamtéž, nemáte nárok na jakoukoli náhradu v souvislosti s uskutečněnými opatřeními.
-4. Zlepšování našich služeb s Vaší pomocí
-   1. Pokud nám k tomu prostřednictvím rozhraní [webových stránek korekthor.cz](https://korekthor.cz/) udělíte souhlas, můžeme:
-      1. Kontaktovat vás s obchodními sděleními telefonicky, e-mailem či dopisem prostřednictvím vámi vyplněných kontaktních údajů.
-      2. Sbírat z webových stránek a aplikace data týkající se vašeho chování na webu či v rámci aplikace a vaše aktivity protokolovat.
-      3. Využívat anonymizovaně Vámi opravené texty pro další zlepšování nástroje.
-      4. Na stránkách publikovat různé dotazníky či jiné metody získání vaší zpětné vazby a odpovědi z nich analyzovat.
-   2. Pokud se po udělení souhlasu k výše zmíněnému rozhodnete svůj souhlas odvolat, je to možné rovněž prostřednictvím rozhraní webových stránek.
-5. Licenční podmínky
-   1. Webová aplikace je autorským dílem ve smyslu zákona č. 121/2000 Sb., autorský zákon, a majetková práva k ní vykonáváme my.
-   2. Naše licence je převoditelná a může přecházet na naše právní nástupce. Zároveň můžeme udělit podlicenci.
-   3. Zpřístupněním webové aplikace, tj. založením vašeho uživatelského účtu nebo jejím používáním návštěvníky, vám poskytujeme osobní, nepřenosnou, nevýhradní licenci k používání webové aplikace a využívání jejího obsahu v rámci služeb specifikovaných těmito podmínkami (dále jen „osobní licence“). Licence se uděluje po dobu trvání smlouvy o poskytování služeb. Předmětem licence je poskytnutí oprávnění k užívání našich služeb v ujednaném rozsahu. Uživatelům nezpřístupníme zdrojové ani strojové kódy webové aplikace, pokud se nedohodneme jinak. Reverzní inženýrství aplikace není dovoleno. Předmětem licence není oprávnění k vytěžování či zužitkování databáze.
-   4. Předmětem osobní licence není oprávnění užívat grafické prvky uživatelského rozhraní rozmnožováním, rozšiřováním nebo sdělováním veřejnosti. Nejste oprávněni webovou aplikaci pozměňovat a vytvářet odvozená díla.
-   5. Osobní licenci není možné postoupit ani udělit podlicenci, a to ani částečně. Webovou aplikaci nemůžete jakýmkoli jiným způsobem poskytovat k užívání třetím osobám.
-   6. Pro použití aktualizací webové aplikace se aplikují licenční podmínky podle tohoto článku.
-   7. Osobní licence se uděluje na dobu trvání smlouvy o poskytování služeb. Se zánikem smlouvy o poskytování služeb zaniká i licence.
-   8. Nenáleží vám jakákoliv oprávnění ve spojení s označeními služby korekthor, ať už registrovanými (ochrannými známkami) nebo neregistrovanými označeními. 
-   9. Licenční podmínky osobní licence se liší podle druhu využívané služby. Ty jsou následující:
-      1. Základní
-      2. Osobní
-      3. Firemní
-   10. Služba je vázána na osobu. Je zakázáno sdílet účet mezi více osobami.
-   11. Licence může být Poskytovatelem za porušení těchto podmínek odebrána bez náhrady.
-   12. Další licenční podmínky pro Základní druh služby:
-       1. Objem opraveného textu je v tomto druhu Služby omezen. Je zakázáno toto omezení jakkoliv obcházet.
-       2. Tento druh Služby je výhradně pro soukromé užití. Je zakázáno jej využívat pro komerční účely, a to i jako zaměstnanec.
-       3. Pokud není uvedeno jinak, limit pro opravy je 1 000 znaků měsíčně.
-   14. Další licenční podmínky pro Osobní druh služby:
-       1. Objem opraveného textu může být v tomto druhu Služby omezen. Omezení je ujednáno při uzavření kupní smlouvy podle Obchodních podmínek. Je zakázáno toto omezení jakkoliv obcházet.
-       2. Tento druh Služby je výhradně pro soukromé užití. Je zakázáno jej využívat pro komerční účely, a to i jako zaměstnanec.
-       3. Pokud není uvedeno jinak, limit pro opravy je 1 000 000 000 znaků měsíčně.
-   15. Další licenční podmínky pro Firemní druh služby
-       1. Po zakoupení tohoto druhu služby právnickou osobou kupující poskytne Poskytovateli seznam e-mailových adres účtů zaměstnanců, které chce do svého plánu přidat. Ti se pak stávají firemními uživateli.
-       2. Kupující právnická osoba smí do výše zmíněného seznamu zařadit pouze vlastní zaměstnance. Pro zařazení jiných osob (např. rodinných příslušníků, zaměstnanců dceřiné společnosti apod.) je nutné na toto pamatovat při uzavírání smlouvy Poskytovatelem.
-6. Odpovědnost
-   1. Přes naše snahy nemusí naše služby fungovat napříč veškerými zařízeními, prohlížeči a jejich verzemi. Dostupnost našich služeb všemi druhy přístupu negarantujeme a neručíme za škodu způsobenou jejich nedostupností.
-   2. Neodpovídáme za škody či ztráty dat způsobené při využívání webové aplikace, pokud byly způsobeny vámi, třetími osobami nebo překážkami vzniklými nezávisle na naší vůli. Dále neodpovídáme za škody způsobené užíváním webové aplikace v rozporu s Podmínkami, Zásadami, Obchodními podmínkami, našimi pokyny, neodborným zásahem do aplikace, dat v aplikaci nebo do jiného obsahu aplikace, nedostatečným zabezpečením lokální sítě návštěvníka nebo uživatele nebo jeho hardwaru, popř. útokem hackerů nebo jiným obdobným vnějším zásahem nebo vzniklé v důsledku poškození způsobeného nesprávnou funkcí programů jiných výrobců instalovaných ve vašem zařízení.
-   3. Neodpovídáme vám ani za škodu způsobenou vložením nepravdivých, klamavých nebo zavádějících údajů do webové aplikace jiným uživatelem.
-   4. Neodpovídáme za škody vzniklé nesprávnou opravou textu našimi službami. Jde o automatické systémy a jejich plnou funkčnost nelze garantovat. Při vyhodnocování doporučení našich služeb je tak v prvé řadě nutné řídit se vlastní úvahou.
-   5. V rámci opravy textu může být využíváno služeb třetích stran (Google, Anthropic, Meta nebo OpenAI). Pokud přes naše snahy o anonymizaci opravovaných textů dojde k jejich zneužití těmito třetími stranami, neneseme za vzniklé škody odpovědnost.
-   6. Neodpovídáme za škody vzniklé nedostupností našich služeb, pokud tato nedostupnost není způsobena událostmi námi kontrolovatelnými (např. výpadek proudu, internetového připojení, přírodní katastrofa).
-7. Závěrečná ustanovení
-   1. Je-li některá část těchto Podmínek neplatná nebo zdánlivá, nemá to vliv na platnost ostatních ujednání. Smluvní strany výslovně vylučují ustanovení § 557 občanského zákoníku.
-   2. Smlouva o poskytování služeb, jakož i samotné poskytování služeb probíhá v českém jazyce.
-   3. Smluvní vztahy vzniklé v souvislosti nebo na základě smlouvy o poskytování služeb a poskytnutí licence mezi námi a vámi se řídí českým právem
-   4. Podmínky včetně rozsahu poskytovaných služeb můžeme jednostranně změnit především z důvodu vývoje cen, na nichž je poskytování služeb závislé, z důvodu změny právní regulace oblasti, v níž působíme a v rámci níž poskytujeme služby, z důvodu vývoje nebo změny technologií využívaných při poskytování služeb nebo z důvodu změny rozsahu, formátu či jiných vlastností vstupních dat webové aplikace, které pochází od subjektů odlišných od poskytovatele služby. Změna Podmínek vám bude oznámena elektronickou zprávou prostřednictvím e-mailu na e-mailovou adresu uvedenou při registraci. V případě, že si nebudete přát být vázáni navrhovanou změnou Podmínek, máte právo změnu odmítnout a poskytování služeb vypovědět s výpovědní dobou 14 dní. Poskytování služeb musíte vypovědět zrušením uživatelského účtu dle těchto Podmínek. Ke dni uplynutí výpovědní doby vám zrušíme uživatelský účet. Vrácení již zaplacených částek se řídí platným právem, nad jeho rámec vrácení negarantujeme. V případě, že svůj účet nezrušíte zasláním oznámení do 14 dní od oznámení změny Podmínek, má se za to, že s novými Podmínkami souhlasíte.
-   5. Podle změněných Podmínek podle předchozího odstavce se řídí i právní vztahy vzniklé přede dnem nabytí účinnosti nových Podmínek, avšak vznik práv a povinností, ke kterým došlo přede dnem nabytí účinnosti změn Podmínek, se posuzují podle dosavadního znění Podmínek.
 
-Platnost 25. 8. 2025. Účinnost 9. 9. 2025
+## 1. Základní ustanovení
+1. **Poskytovatel:** Společnost ComVisoft s.r.o., se sídlem Strmá 798, Kobeřice 747 27, IČO 09168991, zapsaná v obchodním rejstříku pod sp. zn. C 82257 vedeném u Krajského soudu v Ostravě, e-mail: info@korekthor.cz, telefonní číslo: +420 728 304 104 („My” nebo „Poskytovatel”), provozovatel webové aplikace a služeb na adrese https://korekthor.cz.
+2. **Software a Služba:** Webová aplikace https://korekthor.cz, doplňky do internetových prohlížečů, integrace (včetně doplňku pro redakční systém WordPress) a případná API rozhraní umožňující automatizovanou kontrolu a korekturu českého textu (dále jen „Software“ nebo „Služba“).
+3. **Režimy užívání Služby:** Službu poskytujeme v následujících režimech a tarifech:
+   1. **Bez přihlášení (Návštěvník):** Bezplatný přístup v základním orientačním rozsahu bez nutnosti registrace.
+   2. **Základní (Uživatel bez předplatného):** Bezplatný přístup pro registrované a přihlášené uživatele s měsíčním objemovým limitem stanoveným na Stránkách.
+   3. **Osobní:** Placené předplatné pro jednotlivce určené výhradně pro soukromé a nekomerční účely s limitem stanoveným při nákupu.
+   4. **Osobní rozšířené:** Placené předplatné pro náročnější soukromé uživatele s navýšeným objemem zpracovávaného textu.
+   5. **Firemní:** Placené týmové předplatné pro podnikatele, redakce a organizace umožňující komerční využití a přidělení licencí stanovenému počtu Pověřených uživatelů.
+   6. **Firemní rozšířené:** Placené týmové předplatné pro větší týmy či obsahové agentury s vyšší kapacitou přístupů (seats) a vyšším objemovým limitem zpracování.
+   7. **Na míru (Enterprise):** Individuální tarif sjednávaný samostatnou smlouvou (zahrnující např. vlastní integrace, API přístup, individuální limity nebo fakturační ujednání).
+4. **Definice uživatelů:**
+   * **Návštěvník** je osoba přistupující ke Službě bez registrace či přihlášení.
+   * **Uživatel** je každá registrovaná fyzická osoba využívající Službu pod svým účtem.
+   * **Pověřený uživatel** je fyzická osoba, které Kupující Firemního tarifu přidělil uživatelský přístup k Službě v rámci zakoupených licencí.
+   * **Vy** jste Návštěvník, Uživatel nebo Kupující podle kontextu.
+5. **Smluvní rámec:** Používáním Softwaru dochází k uzavření smlouvy o poskytování služeb a udělení licence dle těchto Podmínek užití. V případě placených verzí jsou nedílnou součástí smluvního vztahu také naše [Všeobecné obchodní podmínky](https://korekthor.cz/obchodni-podminky) a [Zásady zpracování osobních údajů](https://korekthor.cz/ochrana-udaju) (včetně případné Zpracovatelské smlouvy – DPA).
+
+## 2. Podmínky užití služeb a povaha výstupů
+1. **Rozsah služeb:** Konkrétní rozsah, funkce a limity jednotlivých tarifů jsou vždy aktuálně specifikovány v ceníku na Stránkách nebo v individuální smlouvě.
+2. **Technologická povaha a absence záruky bezchybnosti:** Uživatel bere na vědomí, že oprava textu probíhá kombinací algoritmických metod, jazykových modelů (LLM) a neuronových sítí. Služba je automatizovaným pomocným nástrojem, nikoli plnohodnotnou náhradou lidského jazykového korektora. Poskytovatel negarantuje 100% bezchybnost výstupů ani odhalení všech gramatických, stylistických či typografických nedostatků. Finální kontrola textu a odpovědnost za jeho publikaci leží vždy výhradně na Uživateli.
+3. **Nezávislost na jazykových institucích:** Poskytovatel není oficiálně propojen s Ústavem pro jazyk český AV ČR (ÚJČ) ani s jinými státními institucemi. Výstupy představují doporučení vygenerovaná na základě natrénovaných modelů a algoritmů.
+4. **Zákaz zneužití a bezpečná infrastruktura:** Uživatel se zavazuje:
+   1. Nepokoušet se o reverzní inženýrství, dekompilaci, neoprávněné vytěžování databáze (scraping) ani obcházení nastavených limitů tarifů.
+   2. Nezatěžovat infrastrukturu automatizovanými útoky (DoS/DDoS) ani nevkládat do Softwaru kód obsahující škodlivý software (malware, exploity).
+   3. Nepřeprodávat přístup ke Službě třetím stranám bez předchozího písemného souhlasu Poskytovatele.
+5. **Odpovědnost za vkládaný obsah:** Uživatel nese plnou odpovědnost za legálnost textů a dat, které do Softwaru vkládá ke kontrole. Je zakázáno vkládat obsah, jehož zpracováním by docházelo k porušování právních předpisů, autorských práv třetích osob, k podněcování k trestné činnosti či k ohrožení národní bezpečnosti.
+6. **Osobní údaje ve vkládaném obsahu:** Vkládá-li Uživatel či Firemní zákazník do Služby texty obsahující osobní údaje třetích osob, vystupuje v pozici správce údajů a Poskytovatel v pozici zpracovatele. Takové zpracování se řídí Zpracovatelskou smlouvou (DPA) dle našich [Zásad zpracování osobních údajů](https://korekthor.cz/ochrana-udaju).
+
+## 3. Uživatelský účet a správa licencí
+1. **Zřízení účtu:** Registrace je bezplatná a probíhá prostřednictvím podporovaných identitních služeb (Google, Discord) nebo pomocí e-mailu a hesla. Uživatel je povinen uvádět přesné a pravdivé údaje a chránit své přihlašovací údaje před vyzrazením.
+2. **Vázanost na osobu:** Každý uživatelský účet je osobní. Je přísně zakázáno sdílet jeden účet či přihlašovací údaje mezi více fyzickými osobami současně.
+3. **Správa firemních účtů (Tarify Firemní a Firemní rozšířené):**
+   1. Kupující firemního tarifu určuje Administrátora účtu, který má oprávnění spravovat zakoupené licence (tzv. seatech) v administračním rozhraní.
+   2. Licence mohou být přiděleny zaměstnancům Kupujícího nebo stálým externím smluvním spolupracovníkům (kontraktorům).
+   3. Administrátor je oprávněn v případě ukončení spolupráce s konkrétním Pověřeným uživatelem licenci odebrat a přiřadit ji jiné osobě. Sdílení jednoho přístupu více lidmi naráz je však vyloučeno.
+   4. Kupující v plném rozsahu odpovídá za to, že všichni Pověření uživatelé dodržují tyto Podmínky.
+4. **Zrušení účtu:** Uživatel může svůj účet kdykoliv zrušit v uživatelském profilu na webu nebo žádostí na info@korekthor.cz. Zánikem účtu zaniká i licence k využívání placených služeb bez nároku na vrácení nespotřebované části poplatku, nestanoví-li zákon jinak.
+5. **Sankční zrušení účtu:** Poskytovatel je oprávněn bez náhrady zablokovat či smazat účet Uživatele, který závažným způsobem nebo opakovaně porušuje tyto Podmínky, Obchodní podmínky, obchází limity služby nebo poškozuje dobré jméno či infrastrukturu Poskytovatele.
+6. **Neaktivní bezplatné účty:** Poskytovatel si vyhrazuje právo smazat bezplatný uživatelský účet, ke kterému se Uživatel nepřihlásil po dobu delší než 12 po sobě jdoucích měsíců.
+
+## 4. Zpětná vazba a anonymizovaná telemetrie
+1. Poskytovatel může v rámci aplikace shromažďovat technická telemetrická data (informace o chybách, výkonu aplikace a využití funkcí) za účelem stability a diagnostiky systému.
+2. Pokud Uživatel udělí výslovný souhlas v nastavení účtu, může Poskytovatel využít anonymizované vzorky textů výhradně pro interní ladění lingvistických algoritmů a zvyšování přesnosti oprav. Texty nejsou v žádném případě poskytovány třetím stranám pro veřejné trénování modelů.
+
+## 5. Licenční podmínky
+1. **Autorské dílo:** Software, webové rozhraní, grafické prvky, algoritmy i doplňky jsou autorským dílem Poskytovatele chráněným zákonem č. 121/2000 Sb., autorský zákon. Veškerá majetková práva vykonává Poskytovatel.
+2. **Rozsah udělené licence:** Poskytovatel uděluje Uživateli po dobu trvání smluvního vztahu nevýhradní, nepřevoditelnou a místně neomezenou licenci k užívání Softwaru v souladu se zvoleným tarifem:
+   * **Tarify Základní, Osobní a Osobní rozšířené:** Licence je udělena výhradně pro osobní, studijní a soukromé nekomerční účely. Je zakázáno tyto účty využívat pro firemní agendu či komerční výdělečnou činnost.
+   * **Tarify Firemní, Firemní rozšířené a Na míru:** Licence zahrnuje oprávnění k užití Softwaru pro interní podnikatelské a komerční účely Kupujícího (včetně kontroly marketingových, publikačních a obchodních textů).
+3. **Omezení licence:** Předmětem licence není převod zdrojových kódů, právo na jejich modifikaci, vytváření odvozených děl ani právo k ochranným známkám a grafickým prvkům Poskytovatele.
+
+## 6. Odpovědnost a dostupnost služeb
+1. **Dostupnost služby („As is“):** Služba je poskytována na bázi „jak stojí a leží“. Poskytovatel vyvíjí maximální úsilí k zajištění vysoké dostupnosti, negarantuje však nepřetržitý provoz bez výpadků. Poskytovatel neodpovídá za nedostupnost způsobenou výpadky konektivity, dodávek energií, údržbou hardwaru či událostmi vyšší moci.
+2. **Zpracování prostřednictvím zabezpečených API:** Služba využívá k vyhodnocování textů šifrované volání modelů a API infrastruktury ověřených technologických partnerů (např. Google Cloud). Data jsou přenášena přes zabezpečené protokoly (TLS) a nejsou těmito subdodavateli využívána k trénování jejich veřejných modelů. Poskytovatel neodpovídá za krátkodobé technické výpadky na straně těchto infrastrukturních partnerů.
+3. **Vyloučení nepřímých škod:** Poskytovatel neodpovídá za jakékoliv nepřímé škody, ušlý zisk, ztrátu obchodních příležitostí, ztrátu dat ani škodu způsobenou vadným výstupem generovaným Službou či jeho chybnou interpretací Uživatelem.
+4. **Zastropování odpovědnosti pro Podnikatele:** Celková souhrnná odpovědnost Poskytovatele za veškeré škody a újmy vzniklé Kupujícímu Podnikateli v souvislosti s Užíváním Služby nebo jejím výpadkem je omezena částkou, kterou Kupující Poskytovateli skutečně uhradil za Služby v posledních 6 měsících před vznikem škodní události (v případě ročního předplatného polovinou ročního poplatku). Toto omezení se neuplatní na újmu způsobenou úmyslně nebo z hrubé nedbalosti.
+
+## 7. Závěrečná ustanovení
+1. **Rozhodné právo:** Právní vztahy založené těmito Podmínkami se řídí právním řádem České republiky. Smluvní strany vylučují aplikaci ustanovení § 557 občanského zákoníku (pravidlo contra proferentem).
+2. **Změna podmínek:** Poskytovatel je oprávněn tyto Podmínky jednostranně měnit (zejména z důvodu legislativních změn či technologického rozvoje Služby). O změnách budou registrovaní uživatelé informováni e-mailem nejméně 14 dní před nabytím jejich účinnosti. Nesouhlasí-li Uživatel se změnou, má právo smlouvu do dne účinnosti bez sankcí vypovědět zrušením účtu.
+3. **Oddělitelnost:** Pokud se některé ustanovení těchto Podmínek stane neplatným či nevymahatelným, nemá to vliv na platnost ostatních ujednání.
+
+## 8. Přechodná ustanovení
+1. Ustanovení o přihlašování e-mailem a heslem se použije po umožnění přihlašování e-mailem a heslem.
+
+Účinnost: 8. 10. 2026

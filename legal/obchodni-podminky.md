@@ -4,7 +4,7 @@
    2. Všechny informace o zpracování Vašich osobních údajů jsou obsaženy v dokumentu Ochrana osobních údajů, který naleznete [zde](https://korekthor.cz/ochrana-udaju).
    3. Ustanovení těchto Podmínek jsou nedílnou součástí Smlouvy. Smlouva a Podmínky jsou vyhotoveny v českém jazyce. Znění Podmínek můžeme jednostranně měnit či doplňovat. Tímto ustanovením nejsou dotčena práva a povinnosti vzniklá po dobu účinnosti předchozího znění Podmínek.
    4. Jak jistě víte, tak komunikujeme primárně na dálku. Proto i pro naši Smlouvu platí, že jsou použity prostředky komunikace na dálku, které umožňují, abychom se spolu dohodli bez současné fyzické přítomnosti Nás a Vás, a Smlouva je tak uzavřena distančním způsobem v prostředí Stránek, a to prostřednictvím rozhraní webové stránky („Stránky“).
-   5. Pokud některá část Podmínek odporuje tomu, co jsme si společně schválili v rámci procesu Vašeho nákupu na Našich Stránkách, bude mít tato konkrétní dohoda před Podmínkami přednost.)
+   5. Pokud některá část Podmínek odporuje tomu, co jsme si společně schválili v rámci procesu Vašeho nákupu na Našich Stránkách, bude mít tato konkrétní dohoda před Podmínkami přednost.
    6. Na využívání služeb se dále vztahují [Podmínky užití](https://korekthor.cz/podminky-uziti). Některé definice a ujednání v těchto Podmínkách jsou součástí Podmínek užití. Seznamte se s nimi tedy, prosím, před uzavřením kupní smlouvy.
 2. Některé definice
    1. Cena je finanční částka, kterou budete hradit za služby;
@@ -12,8 +12,12 @@
    3. Faktura je daňový doklad vystavený v souladu se zákonem o dani z přidané hodnoty na Celkovou cenu;
    4. Objednávka je Váš závazný návrh na uzavření Smlouvy o koupi Služeb s Námi;
    5. Uživatelský účet je účet zřízený na základě Vámi sdělených údajů, jež umožňuje uchování zadaných údajů a uchovávání historie objednaných Služeb a uzavřených Smluv;
-   6. Vy jste osoba nakupující na našich Stránkách, právními předpisy označovaná jako kupující;
-   7. Službami se rozumí předplatná dostupná na našich Stránkách. Zakoupením Služeb získáváte licenci k využití našich nástrojů upřesněnou [zde](https://korekthor.cz/podminky-uziti).
+   6. Spotřebitel je každý člověk, který mimo rámec své podnikatelské činnosti nebo mimo rámec samostatného výkonu svého povolání uzavírá Smlouvu s Námi nebo s Nám jinak jedná.
+   7. Podnikatel je ten, kdo samostatně vykonává na vlastní účet a odpovědnost výdělečnou činnost živnostenským nebo obdobným způsobem se záměrem činit tak soustavně za účelem dosažení zisku. Pokud v Objednávce uvedete své IČO či obchodní firmu, má se za to, že Smlouvu uzavíráte jako Podnikatel.
+   8. Kupující jste Vy, tedy Spotřebitel nebo Podnikatel.
+   9. Firemní předplatné je placený plán určený primárně pro Podnikatele, umožňující zřízení a správu přístupů pro stanovený počet Pověřených uživatelů.
+   10. Pověřený uživatel je fyzická osoba (zaměstnanec, spolupracovník či jiná osoba pověřená Kupujícím), které Kupující v rámci Firemního předplatného přidělil přístup k Užívání Služby.
+   11. Službami se rozumí předplatná dostupná na našich Stránkách. Zakoupením Služeb získáváte licenci k využití našich nástrojů upřesněnou [zde](https://korekthor.cz/podminky-uziti).
 3. Obecná ustanovení a poučení
    1. Koupě Služeb je možná jen přes webové rozhraní Stránek.
    2. Při nákupu Služby je Vaše povinnost poskytnout Nám všechny informace správně a pravdivě. Informace, které jste Nám poskytli v Objednávce budeme tedy považovat za správné a pravdivé.
@@ -23,8 +27,8 @@
    3. K tomu, abychom mohli Smlouvu uzavřít, je třeba, abyste na Stránkách vytvořili Objednávku. V tomto návrhu musí být uvedeny následující údaje:
       1. Informace o zakoupených Službách, o Ceně, způsobu platby; tyto informace budou zadány v rámci tvorby Objednávky v rámci uživatelského prostředí Stránek, přičemž informace o Ceně budou uvedeny automaticky na základě zakoupené Služby a způsobu platby;
       2. Své identifikační a kontaktní údaje sloužící k tomu, abychom mohli doručit Služby, zejména tedy jméno, příjmení a e-mailovou adresu.
-   4. Pro vytvoření objednávky je nutné přihlásit se prostřednictvím účtu zřízeného u Google nebo Discord. Podmínky ochrany osobních údajů třetích stran naleznete na jejich webových stránkách. Společnost ComVisoft s.r.o. není s výše zmíněnými firmami nijak propojena.
-   5. V průběhu tvorby Objednávky může Kupující až do doby jejího dokončení údaje měnit a kontrolovat. Po provedení kontroly prostřednictvím stisku tlačítka „Objednat s povinností platby“ Objednávku dokončíte. Před stiskem tlačítka musíte ale ještě potvrdit Vaše seznámení se a souhlas s těmito Podmínkami, v opačném případě nebude možné Objednávku dokončit. K potvrzení a souhlasu slouží zatrhávací políčko. Po stisku tlačítka „Objednat a zaplatit“ budou všechny vyplněné informace odeslány přímo Nám.
+   4. Pro vytvoření objednávky je nutné přihlásit se prostřednictvím účtu zřízeného u Google nebo Discord anebo se přihlásit e-mailem a heslem. Podmínky ochrany osobních údajů třetích stran naleznete na jejich webových stránkách. Společnost ComVisoft s.r.o. není s výše zmíněnými firmami nijak propojena.
+   5. V průběhu tvorby Objednávky může Kupující až do doby jejího dokončení údaje měnit a kontrolovat. Po provedení kontroly prostřednictvím stisku tlačítka „Objednat a zaplatit“ Objednávku dokončíte. Před stiskem tlačítka musíte ale ještě potvrdit Vaše seznámení se a souhlas s těmito Podmínkami a v případě, že jste spotřebitelem, rovněž souhlas s nemožností využít ustanovení o odstoupení od Smlouvy v zákonem stanovené lhůtě; v opačném případě nebude možné Objednávku dokončit. K potvrzení a souhlasu slouží zatrhávací políčko. Po stisku tlačítka „Objednat a zaplatit“ budou všechny vyplněné informace odeslány přímo Nám.
    6. Vaši Objednávku Vám v co nejkratší době poté, kdy Nám bude doručena, potvrdíme zprávou odeslanou na Vaši e-mailovou adresu zadanou v Objednávce. Součástí potvrzení bude shrnutí Objednávky a tyto Podmínky formou přílohy e-mailové zprávy. Podmínky ve znění účinném ke dni Objednávky, tj. ve znění přiloženém jako příloha potvrzující e-mailové zprávy, tvoří nedílnou součást Smlouvy. Potvrzením Objednávky dochází k uzavření Smlouvy mezi Námi a Vámi.
    7. Mohou nastat i případy, kdy Vám nebudeme moci Objednávku potvrdit. Jedná se zejména o situace, kdy budou naše systémy zažívat výpadek. V takových případech vás co nejdříve kontaktujeme s dalším postupem.
    8. V případě, že v rámci Stránek nebo v Objednávce bude uvedena zjevně chybná Cena, nejsme povinni Vám Služby za tuto Cenu dodat ani v případě, kdy jste obdrželi potvrzení Objednávky, a tedy došlo k uzavření Smlouvy. V takové situaci Vás budeme bezodkladně kontaktovat a zašleme Vám nabídku na uzavření nové Smlouvy v pozměněné podobě oproti Objednávce. Nová Smlouva je v takovém případě uzavřena ve chvíli, kdy Naši nabídku potvrdíte. Za zjevnou chybu v Ceně se považuje například situace, kdy v Ceně chybí či přebývá cifra.
@@ -32,25 +36,27 @@
    10. V případě, že máte zřízen Uživatelský účet se zadanými osobními údaji, můžete využít jejich předvyplnění. I v takovém případě máte ale povinnost zkontrolovat správnost, pravdivost a úplnost těchto údajů.
    11. V některých případech umožňujeme na nákup Služeb využít slevu. Pro poskytnutí slevy je třeba, abyste v rámci návrhu Objednávky vyplnili údaje o této slevě do předem určeného pole. Pokud tak učiníte, bude Vám Služby poskytnuty se slevou.
    12. Uživatel bere na vědomí, že Služba využívá technologie umělé inteligence a její fungování není bezchybné. Poskytovatel služby nenese odpovědnost za nepřesnosti, chyby nebo jiné nedostatky ve výstupech generovaných Službou. Uživatel je plně odpovědný za kontrolu a správnost výsledného textu.
+   13. Kupující Podnikatel mimo výše uvedené souhlasí s tím, že celková agregovaná odpovědnost Poskytovatele za jakoukoliv škodu či újmu vzniklou v souvislosti s používáním Softwaru, jeho vadou nebo výpadkem je omezena částkou, kterou Kupující Poskytovateli skutečně uhradil za Služby v posledních 6 měsících před vznikem škodní události (případně polovinou ceny ročního předplatného, pokud firma využívá roční předplatné). Poskytovatel v žádném případě neodpovídá za ušlý zisk, nepřímé škody, ztrátu obchodních příležitostí ani reputační újmu. To se nevztahuje na újmu způsobenou úmyslně či z hrubé nedbalosti a další případy, kdy zákon takové omezení odpovědnosti zakazuje.
 5. Cenové a platební podmínky, výhrada vlastnického práva
    1. Cena je vždy uvedena v rámci Stránek, v návrhu Objednávky a samozřejmě ve Smlouvě. V případě rozporu mezi Cenou uvedenou u Služeb v rámci Stránek a Cenou uvedenou v návrhu Objednávky se uplatní Cena uvedená v návrhu Objednávky, která bude vždy totožná s cenou ve Smlouvě.
    2. Celková cena je uvedena včetně DPH včetně veškerých poplatků stanovených zákonem.
-   3. Platbu Ceny po Vás budeme požadovat po uzavření Smlouvy a před poskytnutím Služeb. Úhradu Celkové ceny můžete provést prostřednictvím platební brány Comgate.
-   4. Faktura bude vystavena v elektronické podobě po uhrazení Celkové ceny a bude zaslána na Vaši e-mailovou adresu. Faktura bude též dostupná v Uživatelském účtu.
+   3. Úhradu Ceny můžete provést prostřednictvím platební brány Comgate (platební kartou či rychlým převodem), případně, jste-li Podnikatel, bankovním převodem na základě vystavené faktury / zálohové faktury se splatností 14 dnů, není-li dohodnuto jinak.
+   4. Faktura bude vystavena v elektronické podobě a zaslána na Vaši e-mailovou adresu, případně bude dostupná v Uživatelském účtu.
    5. Kupující má možnost zvolit při dokončování objednávky automatické platby. V tom případě bude Služba automaticky obnovena ve zvoleném intervalu automatickým stržením peněz z platební karty. Tato obnovení budou probíhat až do ukončení předplatného (v zákaznické administraci či e-mailem).
    6. O zpřístupnění služeb budete informováni e-mailem. Tím vám nevzniká vlastnické právo na software, máte pouze právo službu využívat podle licence dostupné [zde](https://korekthor.cz/podminky-uziti).
 6. Odstoupení od smlouvy
    1. Předmětem Smlouvy je dodání digitálního obsahu, který není dodáván na hmotném nosiči.
-Kupující, který je spotřebitelem, výslovně bere na vědomí, že v souladu s ustanovením § 1837 písm. l) Občanského zákoníku nemá právo odstoupit od Smlouvy ve lhůtě čtrnácti dnů, pokud bylo plnění (zpřístupnění Služby) započato s jeho předchozím výslovným souhlasem před uplynutím lhůty pro odstoupení od Smlouvy a spotřebitel výslovně vzal na vědomí, že udělením souhlasu jeho právo na odstoupení od Smlouvy zaniká.
-K udělení předchozího výslovného souhlasu se započetím plnění a k potvrzení o ztrátě práva na odstoupení od Smlouvy dochází aktivním zaškrtnutím příslušného pole (checkboxu) před dokončením Objednávky.
-My jsme oprávněni odstoupit od Smlouvy kdykoliv před tím, než Vám poskytneme Služby, pokud existují objektivní důvody, proč není možné Služby poskytnout. Můžeme také od Smlouvy odstoupit, pokud je zjevné, že jste uvedli v Objednávce záměrně nesprávné informace.
+   Kupující, který je spotřebitelem, výslovně bere na vědomí, že v souladu s ustanovením § 1837 písm. l) Občanského zákoníku nemá právo odstoupit od Smlouvy ve lhůtě čtrnácti dnů, pokud bylo plnění (zpřístupnění Služby) započato s jeho předchozím výslovným souhlasem před uplynutím lhůty pro odstoupení od Smlouvy a spotřebitel výslovně vzal na vědomí, že udělením souhlasu jeho právo na odstoupení od Smlouvy zaniká.
+   K udělení předchozího výslovného souhlasu se započetím plnění a k potvrzení o ztrátě práva na odstoupení od Smlouvy dochází aktivním zaškrtnutím příslušného pole (checkboxu) před dokončením Objednávky.
+   My jsme oprávněni odstoupit od Smlouvy kdykoliv před tím, než Vám poskytneme Služby, pokud existují objektivní důvody, proč není možné Služby poskytnout. Můžeme také od Smlouvy odstoupit, pokud je zjevné, že jste uvedli v Objednávce záměrně nesprávné informace.
    2. My jsme oprávněni tyto Podmínky jednostranně měnit či doplňovat. V případě jednorázových nákupů Služeb (včetně manuálního prodloužení) je nové znění účinné dnem zveřejnění na Stránkách a souhlas s ním vyjadřujete odesláním každé nové Objednávky.
-V případě, že máte aktivováno automatické obnovování předplatného (rekurentní platby), budeme Vás o změně Podmínek informovat e-mailem nejméně 14 dní před dnem nabytí jejich účinnosti. Pokud se změnou Podmínek nesouhlasíte, máte právo předplatné do dne nabytí jejich účinnosti zrušit (Smlouvu vypovědět). Pokud předplatné nezrušíte, stávají se nové Podmínky závaznými pro Vaše bezprostředně následující a všechna další zúčtovací období.
-Tímto ustanovením nejsou dotčena práva a povinnosti vzniklá po dobu účinnosti předchozího znění Podmínek.
+   V případě, že máte aktivováno automatické obnovování předplatného (rekurentní platby), budeme Vás o změně Podmínek informovat e-mailem nejméně 14 dní před dnem nabytí jejich účinnosti. Pokud se změnou Podmínek nesouhlasíte, máte právo předplatné do dne nabytí jejich účinnosti zrušit (Smlouvu vypovědět). Pokud předplatné nezrušíte, stávají se nové Podmínky závaznými pro Vaše bezprostředně následující a všechna další zúčtovací období.
+   Tímto ustanovením nejsou dotčena práva a povinnosti vzniklá po dobu účinnosti předchozího znění Podmínek.
+   3. Ustanovení o právu na odstoupení od smlouvy bez udání důvodu a mimosoudním řešení spotřebitelských sporů (ČOI, ODR) se vztahují výhradně na Kupujícího, který je Spotřebitelem. Je-li Kupující Podnikatelem, právo na odstoupení od Smlouvy bez udání důvodu se neuplatní a vztahy se řídí příslušnými ustanoveními Občanského zákoníku pro vztahy mezi podnikateli.
 7. Řešení sporu se spotřebiteli
    1. Nejsme ve vztahu ke kupujícím vázáni žádnými kodexy chování ve smyslu ustanovení § 1826 odst. 1 písm. e) Občanského zákoníku.
    2. Vyřizování stížností spotřebitelů zajišťujeme prostřednictvím elektronické adresy info@korekthor.cz. Informaci o vyřízení stížnosti zašleme na elektronickou adresu kupujícího.
-   3. K mimosoudnímu řešení spotřebitelských sporů ze Smlouvy je příslušná Česká obchodní inspekce, se sídlem Štěpánská 796/44, 110 00 Praha 1, IČ: 000 20 869, internetová adresa: http://www.coi.cz. Platformu pro řešení sporů on-line nacházející se na internetové adrese http://ec.europa.eu/consumers/odr je možné využít při řešení sporů mezi prodávajícím a kupujícím, který je spotřebitelem, z kupní smlouvy uzavřené elektronickými prostředky.
+   3. K mimosoudnímu řešení spotřebitelských sporů ze Smlouvy je příslušná Česká obchodní inspekce, se sídlem Štěpánská 796/44, 110 00 Praha 1, IČ: 000 20 869, internetová adresa: http://www.coi.cz.
    4. Evropské spotřebitelské centrum Česká republika, se sídlem Štěpánská 796/44, 110 00 Praha 1, internetová adresa: http://www.evropskyspotrebitel.cz je kontaktním místem podle Nařízení Evropského parlamentu a Rady (EU) č. 524/2013 ze dne 21. května 2013, o řešení spotřebitelských sporů on-line a o změně nařízení (ES) č. 2006/2004 a směrnice 2009/22/ES (nařízení o řešení spotřebitelských sporů on-line).
 8. Závěrečná ustanovení
    1. Pokud Náš a Váš právní vztah obsahuje mezinárodní prvek, bude se vztah vždy řídit právem České republiky. Pokud jste však spotřebitelé, nejsou tímto ujednáním dotčena Vaše práva plynoucí z právních předpisů.
@@ -61,5 +67,7 @@ Tímto ustanovením nejsou dotčena práva a povinnosti vzniklá po dobu účinn
 
 9. Přechodná ustanovení
    1. V době tvorby těchto podmínek nejsme plátci DPH. Ustanovení o DPH nabudou platnosti až poté, co se staneme plátci DPH.
+   2. Ustanovení o přihlašování jménem a heslem vejde v platnost, jakmile zavedeme možnost přihlašování jménem a heslem.
+   3. Ustanovení o opakovaných platbách budou uplatněny, jakmile zavedeme možnost opakovaných plateb.
 
-Účinnost 22. 9. 2025
+Účinnost 8. 10. 2026
